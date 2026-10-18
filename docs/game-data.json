@@ -1,0 +1,146 @@
+{
+  "source": "Chikiwaa.pptx",
+  "canvas": { "w": 1280, "h": 720, "ratio": "16:9" },
+  "theme": {
+    "fonts": {
+      "display": { "family": "iCiel Stabile Regular", "fallback": "'Baloo 2', cursive", "use": "tiêu đề, đậm" },
+      "body": { "family": "SVN-Good Dog", "fallback": "'Baloo 2', cursive", "use": "câu hỏi, nút, nhãn" },
+      "displayAlt": { "family": "Baloo Bhaijaan", "fallback": "'Baloo 2', cursive", "use": "chữ '?' khổng lồ" }
+    },
+    "colors": {
+      "ink": "404049",
+      "panel": "FFFFFF",
+      "cream": "FFF2CF",
+      "pink": "FEA9B6",
+      "blue": "9CCCEF",
+      "green": "00B050",
+      "gold": "B67E00",
+      "correct": "00B050",
+      "wrong": "FF0000",
+      "timerWarn": "FFE700",
+      "timerDanger": "EE0000"
+    }
+  },
+  "audio": {
+    "timer": { "file": "assets/audio/media1.MP3", "ms": 11937 },
+    "correct": { "file": "assets/audio/media2.MP3", "ms": 1044 },
+    "wrongA": { "file": "assets/audio/media3.MP3", "ms": 1149 },
+    "wrongB": { "file": "assets/audio/media4.MP3", "ms": 1071 },
+    "wrongC": { "file": "assets/audio/media5.MP3", "ms": 1567 }
+  },
+  "screens": {
+    "board": {
+      "id": "board",
+      "bg": "BBE6F7",
+      "title": { "text": "Mini game", "x": 624, "y": 81.6, "w": 445.5, "h": 67.7, "bg": "FEA9B6", "font": "display", "size": 36, "bold": true },
+      "panel": { "x": 397.9, "y": 197.6, "w": 914.5, "h": 316.3, "bg": "FFFFFF" },
+      "sideArt": { "file": "assets/img/image26.png", "x": -2.2, "y": -171.7, "w": 412.4, "h": 891.7 },
+      "stripeGrid": { "color": "FFFFFF", "thickness": 62.6, "note": "lưới kẻ trắng chéo nền, optional" },
+      "cards": [
+        { "n": 1, "question": "q1", "card": { "x": 427.9, "y": 248.4, "w": 182.7, "h": 204.7 }, "prize": { "x": 454.8, "y": 261.4, "w": 148.6, "h": 170.3, "text": "Phần thưởng là" }, "peek": { "file": "assets/img/image22.png", "x": 427.9, "y": 370.5, "w": 82.5, "h": 82.5 } },
+        { "n": 2, "question": "q2", "card": { "x": 624.3, "y": 248.4, "w": 197.1, "h": 208.9 }, "prize": { "x": 665.3, "y": 262.6, "w": 148.6, "h": 170.3, "text": "Phần thưởng là" }, "peek": { "file": "assets/img/image27.png", "x": 624.3, "y": 369.9, "w": 93.5, "h": 87.4 } },
+        { "n": 3, "question": "q3", "card": { "x": 833.3, "y": 248.4, "w": 200.4, "h": 204.0 }, "prize": { "x": 879.5, "y": 259.9, "w": 148.6, "h": 170.3, "text": "Phần thưởng là" }, "peek": { "file": "assets/img/image28.png", "x": 833.3, "y": 380.1, "w": 82.8, "h": 72.3 } },
+        { "n": 4, "question": "q4", "card": { "x": 1041.6, "y": 248.4, "w": 194.7, "h": 219.3 }, "prize": { "x": 1080.1, "y": 261.1, "w": 148.6, "h": 170.3, "text": "Phần thưởng là" }, "peek": { "file": "assets/img/image29.png", "x": 1041.6, "y": 370.3, "w": 97.4, "h": 97.4 } }
+      ],
+      "cardStyle": { "bg": "FFF2CF", "questionMark": { "char": "?", "font": "displayAlt", "size": 80, "color": "FEA9B6" }, "prizeBg": "FFF2CF", "prizeFont": "body", "prizeColor": "404049" },
+      "decoMascots": [
+        { "file": "assets/img/image14.png", "x": 511.6, "y": 466.1, "w": 210.1, "h": 229.4 },
+        { "file": "assets/img/image14.png", "x": 731.9, "y": 448.2, "w": 182.4, "h": 229.4 },
+        { "file": "assets/img/image14.png", "x": 914.3, "y": 448.2, "w": 238.3, "h": 229.4 }
+      ],
+      "bugNote": "PPT gốc: 4 nhãn 'Phần thưởng là' đều hyperlink -> slide17. Web: label n -> question n."
+    },
+    "questions": [
+      {
+        "id": "q1", "n": 1, "bg": "FFE8F4", "accent": "FEA9B6",
+        "panel": { "x": 179.9, "y": 24.5, "w": 920.2, "h": 345.4 },
+        "title": { "text": "CÂU HỎI 1", "x": 476.9, "y": 45.6, "w": 326.1, "h": 67.7, "font": "display", "size": 36, "bold": true },
+        "question": { "text": "", "placeholder": "Đặt câu hỏi tại đây", "x": 319.8, "y": 127.6, "w": 640.4, "h": 48.5, "size": 24 },
+        "home": { "x": 12.2, "y": 13.2, "d": 72.6, "icon": "assets/img/image30.svg", "iconBox": { "x": 20.3, "y": 18.3, "s": 56.5 } },
+        "timerBtn": { "x": 1195.2, "y": 13.2, "d": 72.6, "icon": "assets/img/image31.svg", "iconBox": { "x": 1205.9, "y": 19.1, "s": 56.5 } },
+        "optionBox": { "w": 267.7, "h": 110.8, "bg": "FFFFFF", "font": "body", "size": 32, "color": "404049" },
+        "options": [
+          { "slot": "TL", "x": 311.7, "y": 385.3, "label": "A", "correct": true,  "audio": "correct", "mascot": { "file": "assets/img/image27.png", "x": 249.0, "y": 382.1, "w": 125.4, "h": 117.3 } },
+          { "slot": "TR", "x": 692.5, "y": 394.1, "label": "B", "correct": false, "audio": "wrongA", "mascot": { "file": "assets/img/image22.png", "x": 646.1, "y": 395.8, "w": 109.1, "h": 109.1 } },
+          { "slot": "BL", "x": 311.7, "y": 516.0, "label": "C", "correct": false, "audio": "wrongB", "mascot": { "file": "assets/img/image32.png", "x": 235.2, "y": 504.9, "w": 152.8, "h": 126.1 } },
+          { "slot": "BR", "x": 692.5, "y": 516.0, "label": "D", "correct": false, "audio": "wrongC", "mascot": { "file": "assets/img/image33.png", "x": 656.5, "y": 479.1, "w": 134.1, "h": 147.8 } }
+        ],
+        "deco": [
+          { "file": "assets/img/image23.png", "x": 122.6, "y": 238.7, "w": 167.9, "h": 167.9 },
+          { "file": "assets/img/image19.png", "x": 1001.3, "y": 0, "w": 125.7, "h": 123.3 }
+        ]
+      },
+      {
+        "id": "q2", "n": 2, "bg": "BBE6F7", "accent": "9CCCEF",
+        "panel": { "x": 179.9, "y": 24.5, "w": 920.2, "h": 345.4 },
+        "title": { "text": "CÂU HỎI 2", "x": 476.9, "y": 45.6, "w": 326.1, "h": 67.7, "font": "display", "size": 36, "bold": true },
+        "question": { "text": "", "placeholder": "Đặt câu hỏi tại đây", "x": 319.8, "y": 127.6, "w": 640.4, "h": 48.5, "size": 24 },
+        "home": { "x": 12.2, "y": 13.2, "d": 72.6, "icon": "assets/img/image30.svg", "iconBox": { "x": 20.3, "y": 18.3, "s": 56.5 } },
+        "timerBtn": { "x": 1195.2, "y": 13.2, "d": 72.6, "icon": "assets/img/image31.svg", "iconBox": { "x": 1205.9, "y": 19.1, "s": 56.5 } },
+        "optionBox": { "w": 267.7, "h": 110.8, "bg": "FFFFFF", "font": "body", "size": 32, "color": "404049" },
+        "options": [
+          { "slot": "TL", "x": 293.6, "y": 388.1, "label": "A", "correct": false, "audio": "wrongC", "mascot": { "file": "assets/img/image33.png", "x": 257.6, "y": 351.1, "w": 134.1, "h": 147.8 } },
+          { "slot": "TR", "x": 692.5, "y": 394.1, "label": "B", "correct": false, "audio": "wrongA", "mascot": { "file": "assets/img/image22.png", "x": 646.1, "y": 395.8, "w": 109.1, "h": 109.1 } },
+          { "slot": "BL", "x": 300.6, "y": 516.0, "label": "C", "correct": false, "audio": "wrongB", "mascot": { "file": "assets/img/image32.png", "x": 224.1, "y": 504.9, "w": 152.8, "h": 126.1 } },
+          { "slot": "BR", "x": 689.4, "y": 528.6, "label": "D", "correct": true, "audio": "correct", "mascot": { "file": "assets/img/image27.png", "x": 626.7, "y": 525.4, "w": 125.4, "h": 117.3 } }
+        ],
+        "deco": [
+          { "file": "assets/img/image6.png", "x": 127.7, "y": 182.3, "w": 205.2, "h": 205.2 },
+          { "file": "assets/img/image13.png", "x": 983.3, "y": -37.7, "w": 132.5, "h": 174.2 }
+        ]
+      },
+      {
+        "id": "q3", "n": 3, "bg": "BBFFC8", "accent": "00B050",
+        "panel": { "x": 179.9, "y": 24.5, "w": 920.2, "h": 345.4 },
+        "title": { "text": "CÂU HỎI 3", "x": 476.9, "y": 45.6, "w": 326.1, "h": 67.7, "font": "display", "size": 36, "bold": true },
+        "question": { "text": "", "placeholder": "Đặt câu hỏi tại đây", "x": 319.8, "y": 127.6, "w": 640.4, "h": 48.5, "size": 24 },
+        "home": { "x": 12.2, "y": 13.2, "d": 72.6, "icon": "assets/img/image30.svg", "iconBox": { "x": 20.3, "y": 18.3, "s": 56.5 } },
+        "timerBtn": { "x": 1195.2, "y": 13.2, "d": 72.6, "icon": "assets/img/image31.svg", "iconBox": { "x": 1205.9, "y": 19.1, "s": 56.5 } },
+        "optionBox": { "w": 267.7, "h": 110.8, "bg": "FFFFFF", "font": "body", "size": 32, "color": "404049" },
+        "options": [
+          { "slot": "TL", "x": 293.6, "y": 388.1, "label": "A", "correct": false, "audio": "wrongC", "mascot": { "file": "assets/img/image33.png", "x": 257.6, "y": 351.1, "w": 134.1, "h": 147.8 } },
+          { "slot": "TR", "x": 692.5, "y": 394.1, "label": "B", "correct": false, "audio": "wrongA", "mascot": { "file": "assets/img/image22.png", "x": 646.1, "y": 395.8, "w": 109.1, "h": 109.1 } },
+          { "slot": "BL", "x": 306.7, "y": 528.6, "label": "C", "correct": true, "audio": "correct", "mascot": { "file": "assets/img/image27.png", "x": 244.0, "y": 525.4, "w": 125.4, "h": 117.3 } },
+          { "slot": "BR", "x": 702.4, "y": 516.0, "label": "D", "correct": false, "audio": "wrongB", "mascot": { "file": "assets/img/image32.png", "x": 626.0, "y": 504.9, "w": 152.8, "h": 126.1 } }
+        ],
+        "deco": [
+          { "file": "assets/img/image10.png", "x": 977.7, "y": 5.6, "w": 148.6, "h": 147.7 },
+          { "file": "assets/img/image11.png", "x": 179.9, "y": 272.1, "w": 132.7, "h": 110.8 }
+        ]
+      },
+      {
+        "id": "q4", "n": 4, "bg": "FFF2CF", "accent": "B67E00",
+        "panel": { "x": 179.9, "y": 24.5, "w": 920.2, "h": 345.4 },
+        "title": { "text": "CÂU HỎI 4", "x": 476.9, "y": 45.6, "w": 326.1, "h": 67.7, "font": "display", "size": 36, "bold": true },
+        "question": { "text": "", "placeholder": "Đặt câu hỏi tại đây", "x": 319.8, "y": 127.6, "w": 640.4, "h": 48.5, "size": 24 },
+        "home": { "x": 12.2, "y": 13.2, "d": 72.6, "icon": "assets/img/image30.svg", "iconBox": { "x": 20.3, "y": 18.3, "s": 56.5 } },
+        "timerBtn": { "x": 1195.2, "y": 13.2, "d": 72.6, "icon": "assets/img/image31.svg", "iconBox": { "x": 1205.9, "y": 19.1, "s": 56.5 } },
+        "optionBox": { "w": 267.7, "h": 110.8, "bg": "FFFFFF", "font": "body", "size": 32, "color": "404049" },
+        "options": [
+          { "slot": "TL", "x": 293.6, "y": 388.1, "label": "A", "correct": false, "audio": "wrongC", "mascot": { "file": "assets/img/image33.png", "x": 257.6, "y": 351.1, "w": 134.1, "h": 147.8 } },
+          { "slot": "TR", "x": 710.0, "y": 388.1, "label": "B", "correct": true, "audio": "correct", "mascot": { "file": "assets/img/image27.png", "x": 647.3, "y": 384.8, "w": 125.4, "h": 117.3 } },
+          { "slot": "BL", "x": 293.6, "y": 529.0, "label": "C", "correct": false, "audio": "wrongA", "mascot": { "file": "assets/img/image22.png", "x": 247.2, "y": 530.7, "w": 109.1, "h": 109.1 } },
+          { "slot": "BR", "x": 702.4, "y": 516.0, "label": "D", "correct": false, "audio": "wrongB", "mascot": { "file": "assets/img/image32.png", "x": 626.0, "y": 504.9, "w": 152.8, "h": 126.1 } }
+        ],
+        "deco": [
+          { "file": "assets/img/image7.png", "x": 144.2, "y": 221.8, "w": 175.6, "h": 161.8 },
+          { "file": "assets/img/image12.png", "x": 988.9, "y": -5.8, "w": 132.7, "h": 132.7 }
+        ]
+      }
+    ],
+    "timer": {
+      "track": { "x": 0, "y": 669.6, "w": 1280, "h": 50.4, "note": "màu accent của câu hỏi" },
+      "bar": { "x": 20.3, "y": 678.4, "w": 1238.7, "h": 31, "bg": "FFFFFF", "travelPx": -1219, "ms": 10000, "warnAtMs": 4000, "warnColor": "FFE700", "dangerAtMs": 8000, "dangerColor": "EE0000" },
+      "clock": { "file": "assets/img/image29.png", "x": 1192.9, "y": 639.8, "w": 97.4, "h": 97.4, "travelPx": -1210, "ms": 10000 },
+      "timeoutMascot": { "file": "assets/img/image22.png", "x": -0.8, "y": 657.7, "w": 72.3, "h": 72.3, "showAtMs": 10000 }
+    }
+  },
+  "motion": {
+    "bounceIn": { "ms": 750, "stagger": 250, "easing": "cubic-bezier(.34,1.56,.64,1)", "note": "presetID 2 subtype 4 (bounce up)" },
+    "questionWipe": { "ms": 500, "dropPx": 52, "easing": "ease-out" },
+    "mascotIn": { "filterMs": 250, "risePx": 31, "moveMs": 750, "easing": "cubic-bezier(.34,1.56,.64,1)" },
+    "cardExit": { "ms": 500, "easing": "ease-in" },
+    "colorFeedback": { "ms": 250 },
+    "timerBtnFadeOut": { "ms": 500 }
+  }
+}

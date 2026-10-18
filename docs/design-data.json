@@ -1,0 +1,3019 @@
+{
+ "16": {
+  "bg": "BBE6F7",
+  "shapes": [
+   {
+    "id": "11",
+    "name": "!!Recta csdvcsdfvfsngle 1",
+    "type": "sp",
+    "z": 0,
+    "xfrm": {
+     "x": 52.9,
+     "y": -78.0,
+     "w": 62.6,
+     "h": 846.0
+    },
+    "geom": "rect",
+    "fills": [
+     "scheme:bg1"
+    ],
+    "startHidden": false
+   },
+   {
+    "id": "12",
+    "name": "!!Rectangle 3 cdsvsfv",
+    "type": "sp",
+    "z": 1,
+    "xfrm": {
+     "x": 166.5,
+     "y": -78.0,
+     "w": 62.6,
+     "h": 846.0
+    },
+    "geom": "rect",
+    "fills": [
+     "scheme:bg1"
+    ],
+    "startHidden": false
+   },
+   {
+    "id": "13",
+    "name": "!!vjksfnv ìndbvRectangle 4",
+    "type": "sp",
+    "z": 2,
+    "xfrm": {
+     "x": 296.5,
+     "y": -78.0,
+     "w": 62.6,
+     "h": 846.0
+    },
+    "geom": "rect",
+    "fills": [
+     "scheme:bg1"
+    ],
+    "startHidden": false
+   },
+   {
+    "id": "14",
+    "name": "!!cýdbhvy bfsRectangle 5",
+    "type": "sp",
+    "z": 3,
+    "xfrm": {
+     "x": 426.9,
+     "y": -83.1,
+     "w": 62.6,
+     "h": 846.0
+    },
+    "geom": "rect",
+    "fills": [
+     "scheme:bg1"
+    ],
+    "startHidden": false
+   },
+   {
+    "id": "15",
+    "name": "!!chsdhuyvhbfsRectangle 6",
+    "type": "sp",
+    "z": 4,
+    "xfrm": {
+     "x": 540.5,
+     "y": -83.1,
+     "w": 62.6,
+     "h": 846.0
+    },
+    "geom": "rect",
+    "fills": [
+     "scheme:bg1"
+    ],
+    "startHidden": false
+   },
+   {
+    "id": "16",
+    "name": "!!cgyuudsgvysuRectangle 8",
+    "type": "sp",
+    "z": 5,
+    "xfrm": {
+     "x": 670.5,
+     "y": -83.1,
+     "w": 62.6,
+     "h": 846.0
+    },
+    "geom": "rect",
+    "fills": [
+     "scheme:bg1"
+    ],
+    "startHidden": false
+   },
+   {
+    "id": "17",
+    "name": "!!fycsduybvfRectangle 9",
+    "type": "sp",
+    "z": 6,
+    "xfrm": {
+     "x": 794.1,
+     "y": -83.7,
+     "w": 62.6,
+     "h": 846.0
+    },
+    "geom": "rect",
+    "fills": [
+     "scheme:bg1"
+    ],
+    "startHidden": false
+   },
+   {
+    "id": "18",
+    "name": "!!chbydsjvb fdRectangle 12",
+    "type": "sp",
+    "z": 7,
+    "xfrm": {
+     "x": 907.7,
+     "y": -83.7,
+     "w": 62.6,
+     "h": 846.0
+    },
+    "geom": "rect",
+    "fills": [
+     "scheme:bg1"
+    ],
+    "startHidden": false
+   },
+   {
+    "id": "19",
+    "name": "!!hjbdfjhv bfdjRectangle 14",
+    "type": "sp",
+    "z": 8,
+    "xfrm": {
+     "x": 1037.7,
+     "y": -83.7,
+     "w": 62.6,
+     "h": 846.0
+    },
+    "geom": "rect",
+    "fills": [
+     "scheme:bg1"
+    ],
+    "startHidden": false
+   },
+   {
+    "id": "20",
+    "name": "!! fjknd nkjdfRectangle 18",
+    "type": "sp",
+    "z": 9,
+    "xfrm": {
+     "x": 617.1,
+     "y": -652.6,
+     "w": 62.6,
+     "h": 1399.1,
+     "rot": 90.0
+    },
+    "geom": "rect",
+    "fills": [
+     "scheme:bg1"
+    ],
+    "startHidden": false
+   },
+   {
+    "id": "21",
+    "name": "!!hb sdjfvb sRectangle 19",
+    "type": "sp",
+    "z": 10,
+    "xfrm": {
+     "x": 617.1,
+     "y": -539.0,
+     "w": 62.6,
+     "h": 1399.1,
+     "rot": 90.0
+    },
+    "geom": "rect",
+    "fills": [
+     "scheme:bg1"
+    ],
+    "startHidden": false
+   },
+   {
+    "id": "22",
+    "name": "!!cdsbhv bsdRectangle 20",
+    "type": "sp",
+    "z": 11,
+    "xfrm": {
+     "x": 617.1,
+     "y": -409.0,
+     "w": 62.6,
+     "h": 1399.1,
+     "rot": 90.0
+    },
+    "geom": "rect",
+    "fills": [
+     "scheme:bg1"
+    ],
+    "startHidden": false
+   },
+   {
+    "id": "23",
+    "name": "!!Rectangle 21 sdv sdv",
+    "type": "sp",
+    "z": 12,
+    "xfrm": {
+     "x": 625.5,
+     "y": -278.6,
+     "w": 62.6,
+     "h": 1399.1,
+     "rot": 90.0
+    },
+    "geom": "rect",
+    "fills": [
+     "scheme:bg1"
+    ],
+    "startHidden": false
+   },
+   {
+    "id": "24",
+    "name": "!!cưesdvcsdvRectangle 22",
+    "type": "sp",
+    "z": 13,
+    "xfrm": {
+     "x": 625.5,
+     "y": -165.0,
+     "w": 62.6,
+     "h": 1399.1,
+     "rot": 90.0
+    },
+    "geom": "rect",
+    "fills": [
+     "scheme:bg1"
+    ],
+    "startHidden": false
+   },
+   {
+    "id": "25",
+    "name": "!!dceacRectangle 23",
+    "type": "sp",
+    "z": 14,
+    "xfrm": {
+     "x": 625.5,
+     "y": -35.0,
+     "w": 62.6,
+     "h": 1399.1,
+     "rot": 90.0
+    },
+    "geom": "rect",
+    "fills": [
+     "scheme:bg1"
+    ],
+    "startHidden": false
+   },
+   {
+    "id": "26",
+    "name": "!!hjbdfjhv bfdjRectangle sdvcsdfv 14",
+    "type": "sp",
+    "z": 15,
+    "xfrm": {
+     "x": 1169.7,
+     "y": -78.0,
+     "w": 62.6,
+     "h": 846.0
+    },
+    "geom": "rect",
+    "fills": [
+     "scheme:bg1"
+    ],
+    "startHidden": false
+   },
+   {
+    "id": "10",
+    "name": "Freeform 11",
+    "type": "sp",
+    "z": 16,
+    "xfrm": {
+     "x": -2.2,
+     "y": -171.7,
+     "w": 412.4,
+     "h": 891.7
+    },
+    "startHidden": true
+   },
+   {
+    "id": "9",
+    "name": "Rectangle 8",
+    "type": "sp",
+    "z": 17,
+    "xfrm": {
+     "x": 397.9,
+     "y": 197.6,
+     "w": 914.5,
+     "h": 316.3
+    },
+    "fills": [
+     "scheme:bg1"
+    ],
+    "startHidden": true
+   },
+   {
+    "id": "5",
+    "name": "!!Picturevedvdgfb 9",
+    "type": "pic",
+    "z": 18,
+    "xfrm": {
+     "x": 511.6,
+     "y": 466.1,
+     "w": 210.1,
+     "h": 229.4
+    },
+    "geom": "rect",
+    "image": "../media/image14.png",
+    "startHidden": true
+   },
+   {
+    "id": "6",
+    "name": "!!Picture 9vcrverv",
+    "type": "pic",
+    "z": 19,
+    "xfrm": {
+     "x": 731.9,
+     "y": 448.2,
+     "w": 182.4,
+     "h": 229.4
+    },
+    "geom": "rect",
+    "image": "../media/image14.png",
+    "startHidden": true
+   },
+   {
+    "id": "7",
+    "name": "!!cưevcev",
+    "type": "pic",
+    "z": 20,
+    "xfrm": {
+     "x": 914.3,
+     "y": 448.2,
+     "w": 238.3,
+     "h": 229.4
+    },
+    "geom": "rect",
+    "image": "../media/image14.png",
+    "startHidden": true
+   },
+   {
+    "id": "27",
+    "name": "!!vvevrfefv 9",
+    "type": "sp",
+    "z": 21,
+    "xfrm": {
+     "x": 624.0,
+     "y": 81.6,
+     "w": 445.5,
+     "h": 67.7
+    },
+    "fills": [
+     "FEA9B6"
+    ],
+    "text": [
+     {
+      "text": "Mini game",
+      "size": 36.0,
+      "bold": true,
+      "font": "iCiel Stabile Regular",
+      "align": "ctr"
+     }
+    ],
+    "startHidden": true
+   },
+   {
+    "id": "4",
+    "name": "TextBox 3",
+    "type": "sp",
+    "z": 22,
+    "xfrm": {
+     "x": 1326.9,
+     "y": -67.1,
+     "w": 19.4,
+     "h": 38.8
+    },
+    "geom": "rect",
+    "startHidden": false
+   },
+   {
+    "id": "2",
+    "name": "Rectangle 1",
+    "type": "sp",
+    "z": 23,
+    "xfrm": {
+     "x": 454.8,
+     "y": 261.4,
+     "w": 148.6,
+     "h": 170.3
+    },
+    "fills": [
+     "FFF2CF",
+     "scheme:tx1"
+    ],
+    "line": {
+     "color": "scheme:tx1",
+     "w": null
+    },
+    "text": [
+     {
+      "text": "Phần thưởng là",
+      "font": "SVN-Good Dog",
+      "color": "404049",
+      "align": "ctr"
+     }
+    ],
+    "startHidden": true
+   },
+   {
+    "id": "3",
+    "name": "Rectangle 2",
+    "type": "sp",
+    "z": 24,
+    "xfrm": {
+     "x": 665.3,
+     "y": 262.6,
+     "w": 148.6,
+     "h": 170.3
+    },
+    "fills": [
+     "FFF2CF",
+     "scheme:tx1"
+    ],
+    "line": {
+     "color": "scheme:tx1",
+     "w": null
+    },
+    "text": [
+     {
+      "text": "Phần thưởng là",
+      "font": "SVN-Good Dog",
+      "color": "404049",
+      "align": "ctr"
+     }
+    ],
+    "startHidden": true
+   },
+   {
+    "id": "8",
+    "name": "Rectangle 7",
+    "type": "sp",
+    "z": 25,
+    "xfrm": {
+     "x": 879.5,
+     "y": 259.9,
+     "w": 148.6,
+     "h": 170.3
+    },
+    "fills": [
+     "FFF2CF",
+     "scheme:tx1"
+    ],
+    "line": {
+     "color": "scheme:tx1",
+     "w": null
+    },
+    "text": [
+     {
+      "text": "Phần thưởng là",
+      "font": "SVN-Good Dog",
+      "color": "404049",
+      "align": "ctr"
+     }
+    ],
+    "startHidden": true
+   },
+   {
+    "id": "35",
+    "name": "Rectangle 34",
+    "type": "sp",
+    "z": 26,
+    "xfrm": {
+     "x": 1080.1,
+     "y": 261.1,
+     "w": 148.6,
+     "h": 170.3
+    },
+    "fills": [
+     "FFF2CF",
+     "scheme:tx1"
+    ],
+    "line": {
+     "color": "scheme:tx1",
+     "w": null
+    },
+    "text": [
+     {
+      "text": "Phần thưởng là",
+      "font": "SVN-Good Dog",
+      "color": "404049",
+      "align": "ctr"
+     }
+    ],
+    "startHidden": true
+   },
+   {
+    "id": "46",
+    "name": "Khung câu 1",
+    "type": "grpSp",
+    "z": 27,
+    "xfrm": {
+     "x": 427.9,
+     "y": 248.4,
+     "w": 182.7,
+     "h": 204.7,
+     "chOff": {
+      "x": 427.9,
+      "y": 248.4
+     },
+     "chExt": {
+      "w": 182.7,
+      "h": 204.7
+     }
+    },
+    "text": [
+     {
+      "text": "?",
+      "size": 80.0,
+      "font": "Baloo Bhaijaan",
+      "color": "FEA9B6"
+     },
+     {
+      "text": "?",
+      "size": 80.0,
+      "font": "Baloo Bhaijaan",
+      "color": "FEA9B6"
+     }
+    ],
+    "children": [
+     {
+      "id": "28",
+      "name": "Rectangle 27",
+      "type": "sp",
+      "z": null,
+      "xfrm": {
+       "x": 446.0,
+       "y": 248.4,
+       "w": 164.6,
+       "h": 188.6
+      },
+      "fills": [
+       "FFF2CF",
+       "scheme:tx1"
+      ],
+      "line": {
+       "color": "scheme:tx1",
+       "w": null
+      },
+      "startHidden": false
+     },
+     {
+      "id": "32",
+      "name": "!!Picture 40",
+      "type": "pic",
+      "z": null,
+      "xfrm": {
+       "x": 427.9,
+       "y": 370.5,
+       "w": 82.5,
+       "h": 82.5,
+       "rot": 347.6
+      },
+      "geom": "rect",
+      "image": "../media/image22.png",
+      "startHidden": false
+     },
+     {
+      "id": "38",
+      "name": "TextBox 37",
+      "type": "sp",
+      "z": null,
+      "xfrm": {
+       "x": 496.1,
+       "y": 275.8,
+       "w": 65.2,
+       "h": 138.9
+      },
+      "geom": "rect",
+      "text": [
+       {
+        "text": "?",
+        "size": 80.0,
+        "font": "Baloo Bhaijaan",
+        "color": "FEA9B6"
+       }
+      ],
+      "startHidden": false
+     },
+     {
+      "id": "42",
+      "name": "TextBox 41",
+      "type": "sp",
+      "z": null,
+      "xfrm": {
+       "x": 497.0,
+       "y": 275.7,
+       "w": 65.2,
+       "h": 138.9
+      },
+      "geom": "rect",
+      "text": [
+       {
+        "text": "?",
+        "size": 80.0,
+        "font": "Baloo Bhaijaan",
+        "color": "FEA9B6"
+       }
+      ],
+      "startHidden": false
+     }
+    ],
+    "startHidden": true
+   },
+   {
+    "id": "47",
+    "name": "Khung câu 2",
+    "type": "grpSp",
+    "z": 28,
+    "xfrm": {
+     "x": 624.3,
+     "y": 248.4,
+     "w": 197.1,
+     "h": 208.9,
+     "chOff": {
+      "x": 624.3,
+      "y": 248.4
+     },
+     "chExt": {
+      "w": 197.1,
+      "h": 208.9
+     }
+    },
+    "text": [
+     {
+      "text": "?",
+      "size": 80.0,
+      "font": "Baloo Bhaijaan",
+      "color": "FEA9B6"
+     },
+     {
+      "text": "?",
+      "size": 80.0,
+      "font": "Baloo Bhaijaan",
+      "color": "FEA9B6"
+     }
+    ],
+    "children": [
+     {
+      "id": "29",
+      "name": "Rectangle 28",
+      "type": "sp",
+      "z": null,
+      "xfrm": {
+       "x": 656.8,
+       "y": 248.4,
+       "w": 164.6,
+       "h": 188.6
+      },
+      "fills": [
+       "FFF2CF",
+       "scheme:tx1"
+      ],
+      "line": {
+       "color": "scheme:tx1",
+       "w": null
+      },
+      "startHidden": false
+     },
+     {
+      "id": "33",
+      "name": "Freeform 13",
+      "type": "sp",
+      "z": null,
+      "xfrm": {
+       "x": 624.3,
+       "y": 369.9,
+       "w": 93.5,
+       "h": 87.4,
+       "rot": 339.6
+      },
+      "startHidden": false
+     },
+     {
+      "id": "39",
+      "name": "TextBox 38",
+      "type": "sp",
+      "z": null,
+      "xfrm": {
+       "x": 708.1,
+       "y": 275.8,
+       "w": 65.2,
+       "h": 138.9
+      },
+      "geom": "rect",
+      "text": [
+       {
+        "text": "?",
+        "size": 80.0,
+        "font": "Baloo Bhaijaan",
+        "color": "FEA9B6"
+       }
+      ],
+      "startHidden": false
+     },
+     {
+      "id": "43",
+      "name": "TextBox 42",
+      "type": "sp",
+      "z": null,
+      "xfrm": {
+       "x": 709.1,
+       "y": 275.7,
+       "w": 65.2,
+       "h": 138.9
+      },
+      "geom": "rect",
+      "text": [
+       {
+        "text": "?",
+        "size": 80.0,
+        "font": "Baloo Bhaijaan",
+        "color": "FEA9B6"
+       }
+      ],
+      "startHidden": false
+     }
+    ],
+    "startHidden": true
+   },
+   {
+    "id": "48",
+    "name": "Khung câu 3",
+    "type": "grpSp",
+    "z": 29,
+    "xfrm": {
+     "x": 833.3,
+     "y": 248.4,
+     "w": 200.4,
+     "h": 204.0,
+     "chOff": {
+      "x": 833.3,
+      "y": 248.4
+     },
+     "chExt": {
+      "w": 200.4,
+      "h": 204.0
+     }
+    },
+    "text": [
+     {
+      "text": "?",
+      "size": 80.0,
+      "font": "Baloo Bhaijaan",
+      "color": "FEA9B6"
+     },
+     {
+      "text": "?",
+      "size": 80.0,
+      "font": "Baloo Bhaijaan",
+      "color": "FEA9B6"
+     }
+    ],
+    "children": [
+     {
+      "id": "30",
+      "name": "Rectangle 29",
+      "type": "sp",
+      "z": null,
+      "xfrm": {
+       "x": 869.1,
+       "y": 248.4,
+       "w": 164.6,
+       "h": 188.6
+      },
+      "fills": [
+       "FFF2CF",
+       "scheme:tx1"
+      ],
+      "line": {
+       "color": "scheme:tx1",
+       "w": null
+      },
+      "startHidden": false
+     },
+     {
+      "id": "34",
+      "name": "Freeform 12",
+      "type": "sp",
+      "z": null,
+      "xfrm": {
+       "x": 833.3,
+       "y": 380.1,
+       "w": 82.8,
+       "h": 72.3,
+       "rot": 341.2
+      },
+      "startHidden": false
+     },
+     {
+      "id": "40",
+      "name": "TextBox 39",
+      "type": "sp",
+      "z": null,
+      "xfrm": {
+       "x": 913.0,
+       "y": 275.8,
+       "w": 65.2,
+       "h": 138.9
+      },
+      "geom": "rect",
+      "text": [
+       {
+        "text": "?",
+        "size": 80.0,
+        "font": "Baloo Bhaijaan",
+        "color": "FEA9B6"
+       }
+      ],
+      "startHidden": false
+     },
+     {
+      "id": "44",
+      "name": "TextBox 43",
+      "type": "sp",
+      "z": null,
+      "xfrm": {
+       "x": 913.9,
+       "y": 275.7,
+       "w": 65.2,
+       "h": 138.9
+      },
+      "geom": "rect",
+      "text": [
+       {
+        "text": "?",
+        "size": 80.0,
+        "font": "Baloo Bhaijaan",
+        "color": "FEA9B6"
+       }
+      ],
+      "startHidden": false
+     }
+    ],
+    "startHidden": true
+   },
+   {
+    "id": "49",
+    "name": "Khung câu 4",
+    "type": "grpSp",
+    "z": 30,
+    "xfrm": {
+     "x": 1041.6,
+     "y": 248.4,
+     "w": 194.7,
+     "h": 219.3,
+     "chOff": {
+      "x": 1041.6,
+      "y": 248.4
+     },
+     "chExt": {
+      "w": 194.7,
+      "h": 219.3
+     }
+    },
+    "text": [
+     {
+      "text": "?",
+      "size": 80.0,
+      "font": "Baloo Bhaijaan",
+      "color": "FEA9B6"
+     },
+     {
+      "text": "?",
+      "size": 80.0,
+      "font": "Baloo Bhaijaan",
+      "color": "FEA9B6"
+     }
+    ],
+    "children": [
+     {
+      "id": "31",
+      "name": "Rectangle 30",
+      "type": "sp",
+      "z": null,
+      "xfrm": {
+       "x": 1071.8,
+       "y": 248.4,
+       "w": 164.6,
+       "h": 188.6
+      },
+      "fills": [
+       "FFF2CF",
+       "scheme:tx1"
+      ],
+      "line": {
+       "color": "scheme:tx1",
+       "w": null
+      },
+      "startHidden": false
+     },
+     {
+      "id": "36",
+      "name": "Picture 35",
+      "type": "pic",
+      "z": null,
+      "xfrm": {
+       "x": 1041.6,
+       "y": 370.3,
+       "w": 97.4,
+       "h": 97.4,
+       "rot": 341.5
+      },
+      "geom": "rect",
+      "image": "../media/image29.png",
+      "startHidden": false
+     },
+     {
+      "id": "41",
+      "name": "TextBox 40",
+      "type": "sp",
+      "z": null,
+      "xfrm": {
+       "x": 1128.6,
+       "y": 275.8,
+       "w": 65.2,
+       "h": 138.9
+      },
+      "geom": "rect",
+      "text": [
+       {
+        "text": "?",
+        "size": 80.0,
+        "font": "Baloo Bhaijaan",
+        "color": "FEA9B6"
+       }
+      ],
+      "startHidden": false
+     },
+     {
+      "id": "45",
+      "name": "TextBox 44",
+      "type": "sp",
+      "z": null,
+      "xfrm": {
+       "x": 1129.5,
+       "y": 275.7,
+       "w": 65.2,
+       "h": 138.9
+      },
+      "geom": "rect",
+      "text": [
+       {
+        "text": "?",
+        "size": 80.0,
+        "font": "Baloo Bhaijaan",
+        "color": "FEA9B6"
+       }
+      ],
+      "startHidden": false
+     }
+    ],
+    "startHidden": true
+   }
+  ]
+ },
+ "17": {
+  "bg": "FFE8F4",
+  "shapes": [
+   {
+    "id": "4",
+    "name": "Rounded Rectangle 3",
+    "type": "sp",
+    "z": 0,
+    "xfrm": {
+     "x": 179.9,
+     "y": 24.5,
+     "w": 920.2,
+     "h": 345.4
+    },
+    "fills": [
+     "scheme:bg1"
+    ],
+    "startHidden": true
+   },
+   {
+    "id": "5",
+    "name": "KHUNG CÂU HỎI",
+    "type": "sp",
+    "z": 1,
+    "xfrm": {
+     "x": 476.9,
+     "y": 45.6,
+     "w": 326.1,
+     "h": 67.7
+    },
+    "fills": [
+     "FEA9B6"
+    ],
+    "text": [
+     {
+      "text": "CÂU HỎI 1",
+      "size": 36.0,
+      "bold": true,
+      "font": "iCiel Stabile Regular",
+      "align": "ctr"
+     }
+    ],
+    "startHidden": true
+   },
+   {
+    "id": "6",
+    "name": "Khung đúng",
+    "type": "sp",
+    "z": 2,
+    "xfrm": {
+     "x": 311.7,
+     "y": 385.3,
+     "w": 267.7,
+     "h": 110.8
+    },
+    "fills": [
+     "scheme:bg1"
+    ],
+    "text": [
+     {
+      "text": "Đúng",
+      "size": 32.0,
+      "font": "SVN-Good Dog",
+      "color": "404049",
+      "align": "ctr"
+     }
+    ],
+    "startHidden": true
+   },
+   {
+    "id": "8",
+    "name": "TextBox 7",
+    "type": "sp",
+    "z": 3,
+    "xfrm": {
+     "x": 319.8,
+     "y": 127.6,
+     "w": 640.4,
+     "h": 48.5
+    },
+    "geom": "rect",
+    "text": [
+     {
+      "text": "Đặt câu hỏi tại đây",
+      "size": 24.0,
+      "font": "SVN-Good Dog",
+      "color": "404049",
+      "align": "ctr"
+     }
+    ],
+    "startHidden": true
+   },
+   {
+    "id": "9",
+    "name": "!!cdnhuisuvhnfPicture 51",
+    "type": "pic",
+    "z": 4,
+    "xfrm": {
+     "x": 122.6,
+     "y": 238.7,
+     "w": 167.9,
+     "h": 167.9,
+     "rot": 348.6
+    },
+    "geom": "rect",
+    "image": "../media/image23.png",
+    "startHidden": true
+   },
+   {
+    "id": "10",
+    "name": "Picture 9",
+    "type": "pic",
+    "z": 5,
+    "xfrm": {
+     "x": 1001.3,
+     "y": 0.0,
+     "w": 125.7,
+     "h": 123.3
+    },
+    "geom": "rect",
+    "image": "../media/image19.png",
+    "startHidden": true
+   },
+   {
+    "id": "15",
+    "name": "Trang chủ",
+    "type": "grpSp",
+    "z": 6,
+    "xfrm": {
+     "x": 12.2,
+     "y": 13.2,
+     "w": 72.6,
+     "h": 72.6,
+     "chOff": {
+      "x": 12.2,
+      "y": 13.2
+     },
+     "chExt": {
+      "w": 72.6,
+      "h": 72.6
+     }
+    },
+    "children": [
+     {
+      "id": "11",
+      "name": "Oval 10",
+      "type": "sp",
+      "z": null,
+      "xfrm": {
+       "x": 12.2,
+       "y": 13.2,
+       "w": 72.6,
+       "h": 72.6
+      },
+      "fills": [
+       "FEA9B6",
+       "scheme:bg1"
+      ],
+      "line": {
+       "color": "scheme:bg1",
+       "w": null
+      },
+      "startHidden": false
+     },
+     {
+      "id": "14",
+      "name": "Graphic 13",
+      "type": "pic",
+      "z": null,
+      "xfrm": {
+       "x": 20.3,
+       "y": 18.3,
+       "w": 56.5,
+       "h": 56.5
+      },
+      "geom": "rect",
+      "image": null,
+      "startHidden": false
+     }
+    ],
+    "startHidden": false
+   },
+   {
+    "id": "18",
+    "name": "Khung thời gian",
+    "type": "grpSp",
+    "z": 7,
+    "xfrm": {
+     "x": 1195.2,
+     "y": 13.2,
+     "w": 72.6,
+     "h": 72.6,
+     "chOff": {
+      "x": 1195.2,
+      "y": 13.2
+     },
+     "chExt": {
+      "w": 72.6,
+      "h": 72.6
+     }
+    },
+    "children": [
+     {
+      "id": "12",
+      "name": "Oval 11",
+      "type": "sp",
+      "z": null,
+      "xfrm": {
+       "x": 1195.2,
+       "y": 13.2,
+       "w": 72.6,
+       "h": 72.6
+      },
+      "fills": [
+       "FEA9B6",
+       "scheme:bg1"
+      ],
+      "line": {
+       "color": "scheme:bg1",
+       "w": null
+      },
+      "startHidden": false
+     },
+     {
+      "id": "17",
+      "name": "Graphic 16",
+      "type": "pic",
+      "z": null,
+      "xfrm": {
+       "x": 1205.9,
+       "y": 19.1,
+       "w": 56.5,
+       "h": 56.5
+      },
+      "geom": "rect",
+      "image": null,
+      "startHidden": false
+     }
+    ],
+    "startHidden": false
+   },
+   {
+    "id": "19",
+    "name": "Khung đáp án B sai",
+    "type": "sp",
+    "z": 8,
+    "xfrm": {
+     "x": 692.5,
+     "y": 394.1,
+     "w": 267.7,
+     "h": 110.8
+    },
+    "fills": [
+     "scheme:bg1"
+    ],
+    "text": [
+     {
+      "text": "Sai",
+      "size": 32.0,
+      "font": "SVN-Good Dog",
+      "color": "404049",
+      "align": "ctr"
+     }
+    ],
+    "startHidden": true
+   },
+   {
+    "id": "20",
+    "name": "Khung đáp án C sai",
+    "type": "sp",
+    "z": 9,
+    "xfrm": {
+     "x": 311.7,
+     "y": 516.0,
+     "w": 267.7,
+     "h": 110.8
+    },
+    "fills": [
+     "scheme:bg1"
+    ],
+    "text": [
+     {
+      "text": "Sai",
+      "size": 32.0,
+      "font": "SVN-Good Dog",
+      "color": "404049",
+      "align": "ctr"
+     }
+    ],
+    "startHidden": true
+   },
+   {
+    "id": "21",
+    "name": "Khung D sai ",
+    "type": "sp",
+    "z": 10,
+    "xfrm": {
+     "x": 692.5,
+     "y": 516.0,
+     "w": 267.7,
+     "h": 110.8
+    },
+    "fills": [
+     "scheme:bg1"
+    ],
+    "text": [
+     {
+      "text": "Sai",
+      "size": 32.0,
+      "font": "SVN-Good Dog",
+      "color": "404049",
+      "align": "ctr"
+     }
+    ],
+    "startHidden": true
+   },
+   {
+    "id": "27",
+    "name": "Con trắng xanh đúng",
+    "type": "sp",
+    "z": 11,
+    "xfrm": {
+     "x": 249.0,
+     "y": 382.1,
+     "w": 125.4,
+     "h": 117.3
+    },
+    "startHidden": true
+   },
+   {
+    "id": "28",
+    "name": "Con trắng sai",
+    "type": "pic",
+    "z": 12,
+    "xfrm": {
+     "x": 646.1,
+     "y": 395.8,
+     "w": 109.1,
+     "h": 109.1
+    },
+    "geom": "rect",
+    "image": "../media/image22.png",
+    "startHidden": true
+   },
+   {
+    "id": "29",
+    "name": "Con nhím sai",
+    "type": "sp",
+    "z": 13,
+    "xfrm": {
+     "x": 235.2,
+     "y": 504.9,
+     "w": 152.8,
+     "h": 126.1
+    },
+    "startHidden": true
+   },
+   {
+    "id": "30",
+    "name": "Con vàng sai",
+    "type": "sp",
+    "z": 14,
+    "xfrm": {
+     "x": 656.5,
+     "y": 479.1,
+     "w": 134.1,
+     "h": 147.8
+    },
+    "startHidden": true
+   },
+   {
+    "id": "33",
+    "name": "Time 10s chiikawa",
+    "type": "pic",
+    "z": 15,
+    "xfrm": {
+     "x": 596.9,
+     "y": -109.6,
+     "w": 85.3,
+     "h": 85.3
+    },
+    "geom": "rect",
+    "image": "../media/image34.png",
+    "startHidden": false
+   },
+   {
+    "id": "34",
+    "name": "oiiii đúng",
+    "type": "pic",
+    "z": 16,
+    "xfrm": {
+     "x": -111.9,
+     "y": 398.0,
+     "w": 85.3,
+     "h": 85.3
+    },
+    "geom": "rect",
+    "image": "../media/image34.png",
+    "startHidden": false
+   },
+   {
+    "id": "35",
+    "name": "hmmm sai",
+    "type": "pic",
+    "z": 17,
+    "xfrm": {
+     "x": 1348.7,
+     "y": 406.8,
+     "w": 85.3,
+     "h": 85.3
+    },
+    "geom": "rect",
+    "image": "../media/image34.png",
+    "startHidden": false
+   },
+   {
+    "id": "36",
+    "name": "Sai eeee",
+    "type": "pic",
+    "z": 18,
+    "xfrm": {
+     "x": -124.7,
+     "y": 579.0,
+     "w": 85.3,
+     "h": 85.3
+    },
+    "geom": "rect",
+    "image": "../media/image34.png",
+    "startHidden": false
+   },
+   {
+    "id": "37",
+    "name": "haaa sai vàng ",
+    "type": "pic",
+    "z": 19,
+    "xfrm": {
+     "x": 1330.8,
+     "y": 608.6,
+     "w": 85.3,
+     "h": 85.3
+    },
+    "geom": "rect",
+    "image": "../media/image34.png",
+    "startHidden": false
+   },
+   {
+    "id": "26",
+    "name": "Rectangle 25",
+    "type": "sp",
+    "z": 20,
+    "xfrm": {
+     "x": 20.3,
+     "y": 678.4,
+     "w": 1238.7,
+     "h": 31.0
+    },
+    "geom": "rect",
+    "fills": [
+     "scheme:bg1"
+    ],
+    "startHidden": false
+   },
+   {
+    "id": "24",
+    "name": "Freeform 23",
+    "type": "sp",
+    "z": 21,
+    "xfrm": {
+     "x": 0.0,
+     "y": 669.6,
+     "w": 1280.0,
+     "h": 50.4
+    },
+    "fills": [
+     "FEA9B6"
+    ],
+    "startHidden": false
+   },
+   {
+    "id": "32",
+    "name": "Nhỏ đó hết giờ",
+    "type": "pic",
+    "z": 22,
+    "xfrm": {
+     "x": -0.8,
+     "y": 657.7,
+     "w": 72.3,
+     "h": 72.3
+    },
+    "geom": "rect",
+    "image": "../media/image22.png",
+    "startHidden": true
+   },
+   {
+    "id": "31",
+    "name": "Picture 30",
+    "type": "pic",
+    "z": 23,
+    "xfrm": {
+     "x": 1192.9,
+     "y": 639.8,
+     "w": 97.4,
+     "h": 97.4
+    },
+    "geom": "rect",
+    "image": "../media/image29.png",
+    "startHidden": false
+   }
+  ]
+ },
+ "18": {
+  "bg": "BBE6F7",
+  "shapes": [
+   {
+    "id": "4",
+    "name": "Rounded Rectangle 3",
+    "type": "sp",
+    "z": 0,
+    "xfrm": {
+     "x": 179.9,
+     "y": 24.5,
+     "w": 920.2,
+     "h": 345.4
+    },
+    "fills": [
+     "scheme:bg1"
+    ],
+    "startHidden": true
+   },
+   {
+    "id": "5",
+    "name": "KHUNG CÂU HỎI",
+    "type": "sp",
+    "z": 1,
+    "xfrm": {
+     "x": 476.9,
+     "y": 45.6,
+     "w": 326.1,
+     "h": 67.7
+    },
+    "fills": [
+     "9CCCEF"
+    ],
+    "text": [
+     {
+      "text": "CÂU HỎI 2",
+      "size": 36.0,
+      "bold": true,
+      "font": "iCiel Stabile Regular",
+      "align": "ctr"
+     }
+    ],
+    "startHidden": true
+   },
+   {
+    "id": "6",
+    "name": "Khung đúng",
+    "type": "sp",
+    "z": 2,
+    "xfrm": {
+     "x": 689.4,
+     "y": 528.6,
+     "w": 267.7,
+     "h": 110.8
+    },
+    "fills": [
+     "scheme:bg1"
+    ],
+    "text": [
+     {
+      "text": "Đúng",
+      "size": 32.0,
+      "font": "SVN-Good Dog",
+      "color": "404049",
+      "align": "ctr"
+     }
+    ],
+    "startHidden": true
+   },
+   {
+    "id": "8",
+    "name": "TextBox 7",
+    "type": "sp",
+    "z": 3,
+    "xfrm": {
+     "x": 319.8,
+     "y": 127.6,
+     "w": 640.4,
+     "h": 48.5
+    },
+    "geom": "rect",
+    "text": [
+     {
+      "text": "Đặt câu hỏi tại đây",
+      "size": 24.0,
+      "font": "SVN-Good Dog",
+      "color": "404049",
+      "align": "ctr"
+     }
+    ],
+    "startHidden": true
+   },
+   {
+    "id": "15",
+    "name": "Trang chủ",
+    "type": "grpSp",
+    "z": 4,
+    "xfrm": {
+     "x": 12.2,
+     "y": 13.2,
+     "w": 72.6,
+     "h": 72.6,
+     "chOff": {
+      "x": 12.2,
+      "y": 13.2
+     },
+     "chExt": {
+      "w": 72.6,
+      "h": 72.6
+     }
+    },
+    "children": [
+     {
+      "id": "11",
+      "name": "Oval 10",
+      "type": "sp",
+      "z": null,
+      "xfrm": {
+       "x": 12.2,
+       "y": 13.2,
+       "w": 72.6,
+       "h": 72.6
+      },
+      "fills": [
+       "9CCCEF",
+       "scheme:bg1"
+      ],
+      "line": {
+       "color": "scheme:bg1",
+       "w": null
+      },
+      "startHidden": false
+     },
+     {
+      "id": "14",
+      "name": "Graphic 13",
+      "type": "pic",
+      "z": null,
+      "xfrm": {
+       "x": 20.3,
+       "y": 18.3,
+       "w": 56.5,
+       "h": 56.5
+      },
+      "geom": "rect",
+      "image": null,
+      "startHidden": false
+     }
+    ],
+    "startHidden": false
+   },
+   {
+    "id": "18",
+    "name": "Khung thời gian",
+    "type": "grpSp",
+    "z": 5,
+    "xfrm": {
+     "x": 1195.2,
+     "y": 13.2,
+     "w": 72.6,
+     "h": 72.6,
+     "chOff": {
+      "x": 1195.2,
+      "y": 13.2
+     },
+     "chExt": {
+      "w": 72.6,
+      "h": 72.6
+     }
+    },
+    "children": [
+     {
+      "id": "12",
+      "name": "Oval 11",
+      "type": "sp",
+      "z": null,
+      "xfrm": {
+       "x": 1195.2,
+       "y": 13.2,
+       "w": 72.6,
+       "h": 72.6
+      },
+      "fills": [
+       "9CCCEF",
+       "scheme:bg1"
+      ],
+      "line": {
+       "color": "scheme:bg1",
+       "w": null
+      },
+      "startHidden": false
+     },
+     {
+      "id": "17",
+      "name": "Graphic 16",
+      "type": "pic",
+      "z": null,
+      "xfrm": {
+       "x": 1205.9,
+       "y": 19.1,
+       "w": 56.5,
+       "h": 56.5
+      },
+      "geom": "rect",
+      "image": null,
+      "startHidden": false
+     }
+    ],
+    "startHidden": false
+   },
+   {
+    "id": "19",
+    "name": "Khung đáp án B sai",
+    "type": "sp",
+    "z": 6,
+    "xfrm": {
+     "x": 692.5,
+     "y": 394.1,
+     "w": 267.7,
+     "h": 110.8
+    },
+    "fills": [
+     "scheme:bg1"
+    ],
+    "text": [
+     {
+      "text": "Sai",
+      "size": 32.0,
+      "font": "SVN-Good Dog",
+      "color": "404049",
+      "align": "ctr"
+     }
+    ],
+    "startHidden": true
+   },
+   {
+    "id": "20",
+    "name": "Khung đáp án C sai",
+    "type": "sp",
+    "z": 7,
+    "xfrm": {
+     "x": 300.6,
+     "y": 516.0,
+     "w": 267.7,
+     "h": 110.8
+    },
+    "fills": [
+     "scheme:bg1"
+    ],
+    "text": [
+     {
+      "text": "Sai",
+      "size": 32.0,
+      "font": "SVN-Good Dog",
+      "color": "404049",
+      "align": "ctr"
+     }
+    ],
+    "startHidden": true
+   },
+   {
+    "id": "21",
+    "name": "Khung D sai ",
+    "type": "sp",
+    "z": 8,
+    "xfrm": {
+     "x": 293.6,
+     "y": 388.1,
+     "w": 267.7,
+     "h": 110.8
+    },
+    "fills": [
+     "scheme:bg1"
+    ],
+    "text": [
+     {
+      "text": "Sai",
+      "size": 32.0,
+      "font": "SVN-Good Dog",
+      "color": "404049",
+      "align": "ctr"
+     }
+    ],
+    "startHidden": true
+   },
+   {
+    "id": "27",
+    "name": "Con trắng xanh đúng",
+    "type": "sp",
+    "z": 9,
+    "xfrm": {
+     "x": 626.7,
+     "y": 525.4,
+     "w": 125.4,
+     "h": 117.3
+    },
+    "startHidden": true
+   },
+   {
+    "id": "28",
+    "name": "Con trắng sai",
+    "type": "pic",
+    "z": 10,
+    "xfrm": {
+     "x": 646.1,
+     "y": 395.8,
+     "w": 109.1,
+     "h": 109.1
+    },
+    "geom": "rect",
+    "image": "../media/image22.png",
+    "startHidden": true
+   },
+   {
+    "id": "29",
+    "name": "Con nhím sai",
+    "type": "sp",
+    "z": 11,
+    "xfrm": {
+     "x": 224.1,
+     "y": 504.9,
+     "w": 152.8,
+     "h": 126.1
+    },
+    "startHidden": true
+   },
+   {
+    "id": "30",
+    "name": "Con vàng sai",
+    "type": "sp",
+    "z": 12,
+    "xfrm": {
+     "x": 257.6,
+     "y": 351.1,
+     "w": 134.1,
+     "h": 147.8
+    },
+    "startHidden": true
+   },
+   {
+    "id": "33",
+    "name": "Time 10s chiikawa",
+    "type": "pic",
+    "z": 13,
+    "xfrm": {
+     "x": 596.9,
+     "y": -109.6,
+     "w": 85.3,
+     "h": 85.3
+    },
+    "geom": "rect",
+    "image": "../media/image34.png",
+    "startHidden": false
+   },
+   {
+    "id": "34",
+    "name": "oiiii đúng",
+    "type": "pic",
+    "z": 14,
+    "xfrm": {
+     "x": -111.9,
+     "y": 398.0,
+     "w": 85.3,
+     "h": 85.3
+    },
+    "geom": "rect",
+    "image": "../media/image34.png",
+    "startHidden": false
+   },
+   {
+    "id": "35",
+    "name": "hmmm sai",
+    "type": "pic",
+    "z": 15,
+    "xfrm": {
+     "x": 1348.7,
+     "y": 406.8,
+     "w": 85.3,
+     "h": 85.3
+    },
+    "geom": "rect",
+    "image": "../media/image34.png",
+    "startHidden": false
+   },
+   {
+    "id": "36",
+    "name": "Sai eeee",
+    "type": "pic",
+    "z": 16,
+    "xfrm": {
+     "x": -124.7,
+     "y": 579.0,
+     "w": 85.3,
+     "h": 85.3
+    },
+    "geom": "rect",
+    "image": "../media/image34.png",
+    "startHidden": false
+   },
+   {
+    "id": "37",
+    "name": "haaa sai vàng ",
+    "type": "pic",
+    "z": 17,
+    "xfrm": {
+     "x": 1330.8,
+     "y": 608.6,
+     "w": 85.3,
+     "h": 85.3
+    },
+    "geom": "rect",
+    "image": "../media/image34.png",
+    "startHidden": false
+   },
+   {
+    "id": "26",
+    "name": "Rectangle 25",
+    "type": "sp",
+    "z": 18,
+    "xfrm": {
+     "x": 20.3,
+     "y": 678.4,
+     "w": 1238.7,
+     "h": 31.0
+    },
+    "geom": "rect",
+    "fills": [
+     "scheme:bg1"
+    ],
+    "startHidden": false
+   },
+   {
+    "id": "24",
+    "name": "Freeform 23",
+    "type": "sp",
+    "z": 19,
+    "xfrm": {
+     "x": 0.0,
+     "y": 669.6,
+     "w": 1280.0,
+     "h": 50.4
+    },
+    "fills": [
+     "9CCCEF"
+    ],
+    "startHidden": false
+   },
+   {
+    "id": "32",
+    "name": "Nhỏ đó hết giờ",
+    "type": "pic",
+    "z": 20,
+    "xfrm": {
+     "x": -0.8,
+     "y": 657.7,
+     "w": 72.3,
+     "h": 72.3
+    },
+    "geom": "rect",
+    "image": "../media/image22.png",
+    "startHidden": true
+   },
+   {
+    "id": "31",
+    "name": "Picture 30",
+    "type": "pic",
+    "z": 21,
+    "xfrm": {
+     "x": 1192.9,
+     "y": 639.8,
+     "w": 97.4,
+     "h": 97.4
+    },
+    "geom": "rect",
+    "image": "../media/image29.png",
+    "startHidden": false
+   },
+   {
+    "id": "2",
+    "name": "!!Picture 54",
+    "type": "pic",
+    "z": 22,
+    "xfrm": {
+     "x": 127.7,
+     "y": 182.3,
+     "w": 205.2,
+     "h": 205.2
+    },
+    "geom": "rect",
+    "image": "../media/image6.png",
+    "startHidden": true
+   },
+   {
+    "id": "3",
+    "name": "Picture 2",
+    "type": "pic",
+    "z": 23,
+    "xfrm": {
+     "x": 983.3,
+     "y": -37.7,
+     "w": 132.5,
+     "h": 174.2
+    },
+    "geom": "rect",
+    "image": "../media/image13.png",
+    "startHidden": true
+   }
+  ]
+ },
+ "19": {
+  "bg": "BBFFC8",
+  "shapes": [
+   {
+    "id": "4",
+    "name": "Rounded Rectangle 3",
+    "type": "sp",
+    "z": 0,
+    "xfrm": {
+     "x": 179.9,
+     "y": 24.5,
+     "w": 920.2,
+     "h": 345.4
+    },
+    "fills": [
+     "scheme:bg1"
+    ],
+    "startHidden": true
+   },
+   {
+    "id": "5",
+    "name": "KHUNG CÂU HỎI",
+    "type": "sp",
+    "z": 1,
+    "xfrm": {
+     "x": 476.9,
+     "y": 45.6,
+     "w": 326.1,
+     "h": 67.7
+    },
+    "fills": [
+     "00B050"
+    ],
+    "text": [
+     {
+      "text": "CÂU HỎI 3",
+      "size": 36.0,
+      "bold": true,
+      "font": "iCiel Stabile Regular",
+      "align": "ctr"
+     }
+    ],
+    "startHidden": true
+   },
+   {
+    "id": "6",
+    "name": "Khung đúng",
+    "type": "sp",
+    "z": 2,
+    "xfrm": {
+     "x": 306.7,
+     "y": 528.6,
+     "w": 267.7,
+     "h": 110.8
+    },
+    "fills": [
+     "scheme:bg1"
+    ],
+    "text": [
+     {
+      "text": "Đúng",
+      "size": 32.0,
+      "font": "SVN-Good Dog",
+      "color": "404049",
+      "align": "ctr"
+     }
+    ],
+    "startHidden": true
+   },
+   {
+    "id": "8",
+    "name": "TextBox 7",
+    "type": "sp",
+    "z": 3,
+    "xfrm": {
+     "x": 319.8,
+     "y": 127.6,
+     "w": 640.4,
+     "h": 48.5
+    },
+    "geom": "rect",
+    "text": [
+     {
+      "text": "Đặt câu hỏi tại đây",
+      "size": 24.0,
+      "font": "SVN-Good Dog",
+      "color": "404049",
+      "align": "ctr"
+     }
+    ],
+    "startHidden": true
+   },
+   {
+    "id": "15",
+    "name": "Trang chủ",
+    "type": "grpSp",
+    "z": 4,
+    "xfrm": {
+     "x": 12.2,
+     "y": 13.2,
+     "w": 72.6,
+     "h": 72.6,
+     "chOff": {
+      "x": 12.2,
+      "y": 13.2
+     },
+     "chExt": {
+      "w": 72.6,
+      "h": 72.6
+     }
+    },
+    "children": [
+     {
+      "id": "11",
+      "name": "Oval 10",
+      "type": "sp",
+      "z": null,
+      "xfrm": {
+       "x": 12.2,
+       "y": 13.2,
+       "w": 72.6,
+       "h": 72.6
+      },
+      "fills": [
+       "00B050",
+       "scheme:bg1"
+      ],
+      "line": {
+       "color": "scheme:bg1",
+       "w": null
+      },
+      "startHidden": false
+     },
+     {
+      "id": "14",
+      "name": "Graphic 13",
+      "type": "pic",
+      "z": null,
+      "xfrm": {
+       "x": 20.3,
+       "y": 18.3,
+       "w": 56.5,
+       "h": 56.5
+      },
+      "geom": "rect",
+      "image": null,
+      "startHidden": false
+     }
+    ],
+    "startHidden": false
+   },
+   {
+    "id": "18",
+    "name": "Khung thời gian",
+    "type": "grpSp",
+    "z": 5,
+    "xfrm": {
+     "x": 1195.2,
+     "y": 13.2,
+     "w": 72.6,
+     "h": 72.6,
+     "chOff": {
+      "x": 1195.2,
+      "y": 13.2
+     },
+     "chExt": {
+      "w": 72.6,
+      "h": 72.6
+     }
+    },
+    "children": [
+     {
+      "id": "12",
+      "name": "Oval 11",
+      "type": "sp",
+      "z": null,
+      "xfrm": {
+       "x": 1195.2,
+       "y": 13.2,
+       "w": 72.6,
+       "h": 72.6
+      },
+      "fills": [
+       "00B050",
+       "scheme:bg1"
+      ],
+      "line": {
+       "color": "scheme:bg1",
+       "w": null
+      },
+      "startHidden": false
+     },
+     {
+      "id": "17",
+      "name": "Graphic 16",
+      "type": "pic",
+      "z": null,
+      "xfrm": {
+       "x": 1205.9,
+       "y": 19.1,
+       "w": 56.5,
+       "h": 56.5
+      },
+      "geom": "rect",
+      "image": null,
+      "startHidden": false
+     }
+    ],
+    "startHidden": false
+   },
+   {
+    "id": "19",
+    "name": "Khung đáp án B sai",
+    "type": "sp",
+    "z": 6,
+    "xfrm": {
+     "x": 692.5,
+     "y": 394.1,
+     "w": 267.7,
+     "h": 110.8
+    },
+    "fills": [
+     "scheme:bg1"
+    ],
+    "text": [
+     {
+      "text": "Sai",
+      "size": 32.0,
+      "font": "SVN-Good Dog",
+      "color": "404049",
+      "align": "ctr"
+     }
+    ],
+    "startHidden": true
+   },
+   {
+    "id": "20",
+    "name": "Khung đáp án C sai",
+    "type": "sp",
+    "z": 7,
+    "xfrm": {
+     "x": 702.4,
+     "y": 516.0,
+     "w": 267.7,
+     "h": 110.8
+    },
+    "fills": [
+     "scheme:bg1"
+    ],
+    "text": [
+     {
+      "text": "Sai",
+      "size": 32.0,
+      "font": "SVN-Good Dog",
+      "color": "404049",
+      "align": "ctr"
+     }
+    ],
+    "startHidden": true
+   },
+   {
+    "id": "21",
+    "name": "Khung D sai ",
+    "type": "sp",
+    "z": 8,
+    "xfrm": {
+     "x": 293.6,
+     "y": 388.1,
+     "w": 267.7,
+     "h": 110.8
+    },
+    "fills": [
+     "scheme:bg1"
+    ],
+    "text": [
+     {
+      "text": "Sai",
+      "size": 32.0,
+      "font": "SVN-Good Dog",
+      "color": "404049",
+      "align": "ctr"
+     }
+    ],
+    "startHidden": true
+   },
+   {
+    "id": "27",
+    "name": "Con trắng xanh đúng",
+    "type": "sp",
+    "z": 9,
+    "xfrm": {
+     "x": 244.0,
+     "y": 525.4,
+     "w": 125.4,
+     "h": 117.3
+    },
+    "startHidden": true
+   },
+   {
+    "id": "28",
+    "name": "Con trắng sai",
+    "type": "pic",
+    "z": 10,
+    "xfrm": {
+     "x": 646.1,
+     "y": 395.8,
+     "w": 109.1,
+     "h": 109.1
+    },
+    "geom": "rect",
+    "image": "../media/image22.png",
+    "startHidden": true
+   },
+   {
+    "id": "29",
+    "name": "Con nhím sai",
+    "type": "sp",
+    "z": 11,
+    "xfrm": {
+     "x": 626.0,
+     "y": 504.9,
+     "w": 152.8,
+     "h": 126.1
+    },
+    "startHidden": true
+   },
+   {
+    "id": "30",
+    "name": "Con vàng sai",
+    "type": "sp",
+    "z": 12,
+    "xfrm": {
+     "x": 257.6,
+     "y": 351.1,
+     "w": 134.1,
+     "h": 147.8
+    },
+    "startHidden": true
+   },
+   {
+    "id": "33",
+    "name": "Time 10s chiikawa",
+    "type": "pic",
+    "z": 13,
+    "xfrm": {
+     "x": 596.9,
+     "y": -109.6,
+     "w": 85.3,
+     "h": 85.3
+    },
+    "geom": "rect",
+    "image": "../media/image34.png",
+    "startHidden": false
+   },
+   {
+    "id": "34",
+    "name": "oiiii đúng",
+    "type": "pic",
+    "z": 14,
+    "xfrm": {
+     "x": -111.9,
+     "y": 398.0,
+     "w": 85.3,
+     "h": 85.3
+    },
+    "geom": "rect",
+    "image": "../media/image34.png",
+    "startHidden": false
+   },
+   {
+    "id": "35",
+    "name": "hmmm sai",
+    "type": "pic",
+    "z": 15,
+    "xfrm": {
+     "x": 1348.7,
+     "y": 406.8,
+     "w": 85.3,
+     "h": 85.3
+    },
+    "geom": "rect",
+    "image": "../media/image34.png",
+    "startHidden": false
+   },
+   {
+    "id": "36",
+    "name": "Sai eeee",
+    "type": "pic",
+    "z": 16,
+    "xfrm": {
+     "x": -124.7,
+     "y": 579.0,
+     "w": 85.3,
+     "h": 85.3
+    },
+    "geom": "rect",
+    "image": "../media/image34.png",
+    "startHidden": false
+   },
+   {
+    "id": "37",
+    "name": "haaa sai vàng ",
+    "type": "pic",
+    "z": 17,
+    "xfrm": {
+     "x": 1330.8,
+     "y": 608.6,
+     "w": 85.3,
+     "h": 85.3
+    },
+    "geom": "rect",
+    "image": "../media/image34.png",
+    "startHidden": false
+   },
+   {
+    "id": "26",
+    "name": "Rectangle 25",
+    "type": "sp",
+    "z": 18,
+    "xfrm": {
+     "x": 20.3,
+     "y": 678.4,
+     "w": 1238.7,
+     "h": 31.0
+    },
+    "geom": "rect",
+    "fills": [
+     "scheme:bg1"
+    ],
+    "startHidden": false
+   },
+   {
+    "id": "24",
+    "name": "Freeform 23",
+    "type": "sp",
+    "z": 19,
+    "xfrm": {
+     "x": 0.0,
+     "y": 669.6,
+     "w": 1280.0,
+     "h": 50.4
+    },
+    "fills": [
+     "00B050"
+    ],
+    "startHidden": false
+   },
+   {
+    "id": "32",
+    "name": "Nhỏ đó hết giờ",
+    "type": "pic",
+    "z": 20,
+    "xfrm": {
+     "x": -0.8,
+     "y": 657.7,
+     "w": 72.3,
+     "h": 72.3
+    },
+    "geom": "rect",
+    "image": "../media/image22.png",
+    "startHidden": true
+   },
+   {
+    "id": "31",
+    "name": "Picture 30",
+    "type": "pic",
+    "z": 21,
+    "xfrm": {
+     "x": 1192.9,
+     "y": 639.8,
+     "w": 97.4,
+     "h": 97.4
+    },
+    "geom": "rect",
+    "image": "../media/image29.png",
+    "startHidden": false
+   },
+   {
+    "id": "7",
+    "name": "!!Picture 23",
+    "type": "pic",
+    "z": 22,
+    "xfrm": {
+     "x": 977.7,
+     "y": 5.6,
+     "w": 148.6,
+     "h": 147.7
+    },
+    "geom": "rect",
+    "image": "../media/image10.png",
+    "startHidden": true
+   },
+   {
+    "id": "9",
+    "name": "!!Picture 25",
+    "type": "pic",
+    "z": 23,
+    "xfrm": {
+     "x": 179.9,
+     "y": 272.1,
+     "w": 132.7,
+     "h": 110.8
+    },
+    "geom": "rect",
+    "image": "../media/image11.png",
+    "startHidden": true
+   }
+  ]
+ },
+ "20": {
+  "bg": "FFF2CF",
+  "shapes": [
+   {
+    "id": "4",
+    "name": "Rounded Rectangle 3",
+    "type": "sp",
+    "z": 0,
+    "xfrm": {
+     "x": 179.9,
+     "y": 24.5,
+     "w": 920.2,
+     "h": 345.4
+    },
+    "fills": [
+     "scheme:bg1"
+    ],
+    "startHidden": true
+   },
+   {
+    "id": "5",
+    "name": "KHUNG CÂU HỎI",
+    "type": "sp",
+    "z": 1,
+    "xfrm": {
+     "x": 476.9,
+     "y": 45.6,
+     "w": 326.1,
+     "h": 67.7
+    },
+    "fills": [
+     "B67E00"
+    ],
+    "text": [
+     {
+      "text": "CÂU HỎI 4",
+      "size": 36.0,
+      "bold": true,
+      "font": "iCiel Stabile Regular",
+      "align": "ctr"
+     }
+    ],
+    "startHidden": true
+   },
+   {
+    "id": "6",
+    "name": "Khung đúng",
+    "type": "sp",
+    "z": 2,
+    "xfrm": {
+     "x": 710.0,
+     "y": 388.1,
+     "w": 267.7,
+     "h": 110.8
+    },
+    "fills": [
+     "scheme:bg1"
+    ],
+    "text": [
+     {
+      "text": "Đúng",
+      "size": 32.0,
+      "font": "SVN-Good Dog",
+      "color": "404049",
+      "align": "ctr"
+     }
+    ],
+    "startHidden": true
+   },
+   {
+    "id": "8",
+    "name": "TextBox 7",
+    "type": "sp",
+    "z": 3,
+    "xfrm": {
+     "x": 319.8,
+     "y": 127.6,
+     "w": 640.4,
+     "h": 48.5
+    },
+    "geom": "rect",
+    "text": [
+     {
+      "text": "Đặt câu hỏi tại đây",
+      "size": 24.0,
+      "font": "SVN-Good Dog",
+      "color": "404049",
+      "align": "ctr"
+     }
+    ],
+    "startHidden": true
+   },
+   {
+    "id": "15",
+    "name": "Trang chủ",
+    "type": "grpSp",
+    "z": 4,
+    "xfrm": {
+     "x": 12.2,
+     "y": 13.2,
+     "w": 72.6,
+     "h": 72.6,
+     "chOff": {
+      "x": 12.2,
+      "y": 13.2
+     },
+     "chExt": {
+      "w": 72.6,
+      "h": 72.6
+     }
+    },
+    "children": [
+     {
+      "id": "11",
+      "name": "Oval 10",
+      "type": "sp",
+      "z": null,
+      "xfrm": {
+       "x": 12.2,
+       "y": 13.2,
+       "w": 72.6,
+       "h": 72.6
+      },
+      "fills": [
+       "B67E00",
+       "scheme:bg1"
+      ],
+      "line": {
+       "color": "scheme:bg1",
+       "w": null
+      },
+      "startHidden": false
+     },
+     {
+      "id": "14",
+      "name": "Graphic 13",
+      "type": "pic",
+      "z": null,
+      "xfrm": {
+       "x": 20.3,
+       "y": 18.3,
+       "w": 56.5,
+       "h": 56.5
+      },
+      "geom": "rect",
+      "image": null,
+      "startHidden": false
+     }
+    ],
+    "startHidden": false
+   },
+   {
+    "id": "18",
+    "name": "Khung thời gian",
+    "type": "grpSp",
+    "z": 5,
+    "xfrm": {
+     "x": 1195.2,
+     "y": 13.2,
+     "w": 72.6,
+     "h": 72.6,
+     "chOff": {
+      "x": 1195.2,
+      "y": 13.2
+     },
+     "chExt": {
+      "w": 72.6,
+      "h": 72.6
+     }
+    },
+    "children": [
+     {
+      "id": "12",
+      "name": "Oval 11",
+      "type": "sp",
+      "z": null,
+      "xfrm": {
+       "x": 1195.2,
+       "y": 13.2,
+       "w": 72.6,
+       "h": 72.6
+      },
+      "fills": [
+       "B67E00",
+       "scheme:bg1"
+      ],
+      "line": {
+       "color": "scheme:bg1",
+       "w": null
+      },
+      "startHidden": false
+     },
+     {
+      "id": "17",
+      "name": "Graphic 16",
+      "type": "pic",
+      "z": null,
+      "xfrm": {
+       "x": 1205.9,
+       "y": 19.1,
+       "w": 56.5,
+       "h": 56.5
+      },
+      "geom": "rect",
+      "image": null,
+      "startHidden": false
+     }
+    ],
+    "startHidden": false
+   },
+   {
+    "id": "19",
+    "name": "Khung đáp án B sai",
+    "type": "sp",
+    "z": 6,
+    "xfrm": {
+     "x": 293.6,
+     "y": 529.0,
+     "w": 267.7,
+     "h": 110.8
+    },
+    "fills": [
+     "scheme:bg1"
+    ],
+    "text": [
+     {
+      "text": "Sai",
+      "size": 32.0,
+      "font": "SVN-Good Dog",
+      "color": "404049",
+      "align": "ctr"
+     }
+    ],
+    "startHidden": true
+   },
+   {
+    "id": "20",
+    "name": "Khung đáp án C sai",
+    "type": "sp",
+    "z": 7,
+    "xfrm": {
+     "x": 702.4,
+     "y": 516.0,
+     "w": 267.7,
+     "h": 110.8
+    },
+    "fills": [
+     "scheme:bg1"
+    ],
+    "text": [
+     {
+      "text": "Sai",
+      "size": 32.0,
+      "font": "SVN-Good Dog",
+      "color": "404049",
+      "align": "ctr"
+     }
+    ],
+    "startHidden": true
+   },
+   {
+    "id": "21",
+    "name": "Khung D sai ",
+    "type": "sp",
+    "z": 8,
+    "xfrm": {
+     "x": 293.6,
+     "y": 388.1,
+     "w": 267.7,
+     "h": 110.8
+    },
+    "fills": [
+     "scheme:bg1"
+    ],
+    "text": [
+     {
+      "text": "Sai",
+      "size": 32.0,
+      "font": "SVN-Good Dog",
+      "color": "404049",
+      "align": "ctr"
+     }
+    ],
+    "startHidden": true
+   },
+   {
+    "id": "27",
+    "name": "Con trắng xanh đúng",
+    "type": "sp",
+    "z": 9,
+    "xfrm": {
+     "x": 647.3,
+     "y": 384.8,
+     "w": 125.4,
+     "h": 117.3
+    },
+    "startHidden": true
+   },
+   {
+    "id": "28",
+    "name": "Con trắng sai",
+    "type": "pic",
+    "z": 10,
+    "xfrm": {
+     "x": 247.2,
+     "y": 530.7,
+     "w": 109.1,
+     "h": 109.1
+    },
+    "geom": "rect",
+    "image": "../media/image22.png",
+    "startHidden": true
+   },
+   {
+    "id": "29",
+    "name": "Con nhím sai",
+    "type": "sp",
+    "z": 11,
+    "xfrm": {
+     "x": 626.0,
+     "y": 504.9,
+     "w": 152.8,
+     "h": 126.1
+    },
+    "startHidden": true
+   },
+   {
+    "id": "30",
+    "name": "Con vàng sai",
+    "type": "sp",
+    "z": 12,
+    "xfrm": {
+     "x": 257.6,
+     "y": 351.1,
+     "w": 134.1,
+     "h": 147.8
+    },
+    "startHidden": true
+   },
+   {
+    "id": "33",
+    "name": "Time 10s chiikawa",
+    "type": "pic",
+    "z": 13,
+    "xfrm": {
+     "x": 596.9,
+     "y": -109.6,
+     "w": 85.3,
+     "h": 85.3
+    },
+    "geom": "rect",
+    "image": "../media/image34.png",
+    "startHidden": false
+   },
+   {
+    "id": "34",
+    "name": "oiiii đúng",
+    "type": "pic",
+    "z": 14,
+    "xfrm": {
+     "x": -111.9,
+     "y": 398.0,
+     "w": 85.3,
+     "h": 85.3
+    },
+    "geom": "rect",
+    "image": "../media/image34.png",
+    "startHidden": false
+   },
+   {
+    "id": "35",
+    "name": "hmmm sai",
+    "type": "pic",
+    "z": 15,
+    "xfrm": {
+     "x": 1348.7,
+     "y": 406.8,
+     "w": 85.3,
+     "h": 85.3
+    },
+    "geom": "rect",
+    "image": "../media/image34.png",
+    "startHidden": false
+   },
+   {
+    "id": "36",
+    "name": "Sai eeee",
+    "type": "pic",
+    "z": 16,
+    "xfrm": {
+     "x": -124.7,
+     "y": 579.0,
+     "w": 85.3,
+     "h": 85.3
+    },
+    "geom": "rect",
+    "image": "../media/image34.png",
+    "startHidden": false
+   },
+   {
+    "id": "37",
+    "name": "haaa sai vàng ",
+    "type": "pic",
+    "z": 17,
+    "xfrm": {
+     "x": 1330.8,
+     "y": 608.6,
+     "w": 85.3,
+     "h": 85.3
+    },
+    "geom": "rect",
+    "image": "../media/image34.png",
+    "startHidden": false
+   },
+   {
+    "id": "26",
+    "name": "Rectangle 25",
+    "type": "sp",
+    "z": 18,
+    "xfrm": {
+     "x": 20.3,
+     "y": 678.4,
+     "w": 1238.7,
+     "h": 31.0
+    },
+    "geom": "rect",
+    "fills": [
+     "scheme:bg1"
+    ],
+    "startHidden": false
+   },
+   {
+    "id": "24",
+    "name": "Freeform 23",
+    "type": "sp",
+    "z": 19,
+    "xfrm": {
+     "x": 0.0,
+     "y": 669.6,
+     "w": 1280.0,
+     "h": 50.4
+    },
+    "fills": [
+     "B67E00"
+    ],
+    "startHidden": false
+   },
+   {
+    "id": "32",
+    "name": "Nhỏ đó hết giờ",
+    "type": "pic",
+    "z": 20,
+    "xfrm": {
+     "x": -0.8,
+     "y": 657.7,
+     "w": 72.3,
+     "h": 72.3
+    },
+    "geom": "rect",
+    "image": "../media/image22.png",
+    "startHidden": true
+   },
+   {
+    "id": "31",
+    "name": "Picture 30",
+    "type": "pic",
+    "z": 21,
+    "xfrm": {
+     "x": 1192.9,
+     "y": 639.8,
+     "w": 97.4,
+     "h": 97.4
+    },
+    "geom": "rect",
+    "image": "../media/image29.png",
+    "startHidden": false
+   },
+   {
+    "id": "2",
+    "name": "!!Picture 42",
+    "type": "pic",
+    "z": 22,
+    "xfrm": {
+     "x": 144.2,
+     "y": 221.8,
+     "w": 175.6,
+     "h": 161.8
+    },
+    "geom": "rect",
+    "image": "../media/image7.png",
+    "startHidden": true
+   },
+   {
+    "id": "3",
+    "name": "!!Picture 30",
+    "type": "pic",
+    "z": 23,
+    "xfrm": {
+     "x": 988.9,
+     "y": -5.8,
+     "w": 132.7,
+     "h": 132.7
+    },
+    "geom": "rect",
+    "image": "../media/image12.png",
+    "startHidden": true
+   }
+  ]
+ }
+}
