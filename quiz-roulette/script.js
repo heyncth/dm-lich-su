@@ -11,72 +11,72 @@ const MAIN_QUESTIONS = [
     id: "m1",
     question: "Người Ấn Độ cổ đại có khả năng sáng tạo đáng kinh ngạc trên những lĩnh vực nào?",
     options: [
-      "Chỉ trong quân sự và chính trị",
-      "Xây dựng hệ thống chữ viết, kiến trúc chạm khắc tinh xảo, toán học, khoa học và tư tưởng",
-      "Chỉ trong nghệ thuật và tôn giáo",
-      "Chỉ trong nông nghiệp và thủ công"
+      "Chỉ trong toán học và thiên văn",
+      "Chủ yếu nhờ sao chép từ văn minh Hy Lạp và Ba Tư",
+      "Chữ viết, kiến trúc, toán học, khoa học và tư tưởng",
+      "Chủ yếu nhờ công nghệ quân sự và tổ chức chính trị"
     ],
-    correctIndex: 1,
-    explanation: "Người Ấn Độ cổ đại có khả năng sáng tạo đáng kinh ngạc: hệ thống chữ viết, kiến trúc chạm khắc tinh xảo, toán học, khoa học và tư tưởng."
+    correctIndex: 2,
+    explanation: "Người Ấn Độ cổ đại có khả năng sáng tạo đáng kinh ngạc trên nhiều lĩnh vực: chữ viết, kiến trúc chạm khắc tinh xảo, toán học, khoa học và tư tưởng. Đây là đóng góp độc lập, không phải sao chép từ bên ngoài."
   },
   {
     id: "m2",
     question: "Điều gì tạo nên nét đặc trưng riêng cho văn minh Ấn Độ, giúp nó có sức sống bền bỉ qua nhiều thế kỉ?",
     options: [
+      "Nhờ quân đội hùng mạnh bảo vệ lãnh thổ",
+      "Nhờ vị trí địa lý xa xôi, ít bị xâm lược",
       "Sự kết hợp giữa tín ngưỡng, triết học và nghệ thuật",
-      "Quân đội hùng mạnh",
-      "Tài nguyên thiên nhiên dồi dào",
-      "Vị trí địa lý thuận lợi"
+      "Nhờ tài nguyên thiên nhiên phong phú và khí hậu ôn hòa"
     ],
-    correctIndex: 0,
-    explanation: "Sự kết hợp giữa tín ngưỡng, triết học và nghệ thuật tạo nên nét đặc trưng riêng, giúp văn minh Ấn Độ có sức sống bền bỉ."
+    correctIndex: 2,
+    explanation: "Sự kết hợp giữa tín ngưỡng, triết học và nghệ thuật tạo nên nét đặc trưng riêng, giúp văn minh Ấn Độ có sức sống bền bỉ. Đây là yếu tố tinh thần, không phải quân sự hay địa lý."
   },
   {
     id: "m3",
     question: "Nhiều thành tựu của Ấn Độ không chỉ được lưu giữ trong lịch sử mà còn tiếp tục hiện diện trong đời sống hiện đại. Điều này cho thấy gì?",
     options: [
-      "Chúng không có giá trị thực tế",
-      "Chúng chỉ quan trọng trong quá khứ",
+      "Người Ấn Độ bảo thủ, không thay đổi",
+      "Chỉ quan trọng với các nước đang phát triển",
       "Giá trị và sức ảnh hưởng vượt thời gian của chúng",
-      "Người Ấn Độ bảo thủ, không thay đổi"
+      "Chủ yếu do người Anh truyền bá ra thế giới"
     ],
     correctIndex: 2,
-    explanation: "Điều này cho thấy giá trị và sức ảnh hưởng vượt thời gian của các thành tựu văn minh Ấn Độ."
+    explanation: "Điều này cho thấy giá trị và sức ảnh hưởng vượt thời gian của các thành tựu văn minh Ấn Độ. Người Anh không phải là người truyền bá — nhiều thành tựu như số 0 và chữ số Ấn Độ lan sang châu Âu qua con đường Ả Rập."
   },
   {
     id: "m4",
     question: "Điều gì đã giúp văn minh Ấn Độ duy trì được bản sắc riêng dù trải qua nhiều thời kì lịch sử?",
     options: [
-      "Cô lập với thế giới bên ngoài",
+      "Sự thống nhất chính trị liên tục suốt 2000 năm",
+      "Tự cô lập, không giao lưu với bên ngoài",
       "Truyền thống văn hóa lâu đời, tôn giáo, chữ viết, văn học và khả năng tiếp thu mà vẫn giữ nét đặc trưng",
-      "Quân sự mạnh, chinh phục các nước láng giềng",
-      "Tài nguyên thiên nhiên phong phú"
+      "Chế độ đẳng cấp nghiêm ngặt giúp xã hội ổn định"
     ],
-    correctIndex: 1,
-    explanation: "Truyền thống văn hóa lâu đời, sự phát triển của tôn giáo, chữ viết và văn học, cùng khả năng tiếp thu văn hóa bên ngoài mà vẫn giữ nét đặc trưng."
+    correctIndex: 2,
+    explanation: "Truyền thống văn hóa lâu đời, sự phát triển của tôn giáo, chữ viết và văn học, cùng khả năng tiếp thu văn hóa bên ngoài mà vẫn giữ nét đặc trưng. Ấn Độ hiếm khi thống nhất chính trị, và cô lập không phải là bí quyết."
   },
   {
     id: "m5",
     question: "Nếu không có số 0 và hệ thống chữ số từ Ấn Độ, việc học tập và tính toán sẽ gặp khó khăn gì?",
     options: [
-      "Không gặp khó khăn gì",
+      "Không ảnh hưởng gì, người Ai Cập và Hy Lạp đã tính giỏi rồi",
+      "Chỉ khó trong toán học thuần túy, đời sống không bị ảnh hưởng",
       "Khó biểu diễn số lớn, thực hiện phép tính và phát triển khoa học, kĩ thuật",
-      "Chỉ khó trong toán học thuần túy",
-      "Chỉ khó trong kinh doanh"
+      "Chỉ khó trong thương mại quốc tế"
     ],
-    correctIndex: 1,
-    explanation: "Không có số 0 và hệ thống chữ số Ấn Độ, việc biểu diễn số lớn, phép tính và phát triển khoa học, kĩ thuật sẽ khó khăn hơn rất nhiều."
+    correctIndex: 2,
+    explanation: "Không có số 0 và hệ thống chữ số Ấn Độ, việc biểu diễn số lớn, phép tính và phát triển khoa học, kĩ thuật sẽ khó khăn hơn rất nhiều. Người Hy Lạp có toán học nhưng không có số 0 dạng chữ số."
   },
   {
     id: "m6",
     question: "Em học được điều gì từ sự phát triển của nền văn minh Ấn Độ?",
     options: [
-      "Chỉ cần học văn hóa Việt Nam",
+      "Văn minh chỉ phát triển nhờ quân sự chinh phục và chiếm đóng",
+      "Chỉ cần học khoa học hiện đại, không cần lịch sử",
       "Sự phát triển văn minh không chỉ qua công trình đồ sộ mà còn ở tri thức, tư tưởng truyền lại qua nhiều thế hệ",
-      "Không cần học lịch sử",
-      "Chỉ cần học khoa học hiện đại"
+      "Văn minh chỉ bền vững khi cô lập với thế giới bên ngoài"
     ],
-    correctIndex: 1,
+    correctIndex: 2,
     explanation: "Sự phát triển văn minh không chỉ qua công trình đồ sộ mà còn ở tri thức và tư tưởng được truyền lại qua nhiều thế hệ. Cần học hỏi lịch sử để hiểu nguồn gốc giá trị ngày nay."
   }
 ];
@@ -86,49 +86,49 @@ const BONUS_QUESTIONS = [
     id: "b1",
     question: "Phật giáo và Hin-đu giáo có ảnh hưởng như thế nào đến đời sống tinh thần?",
     options: [
-      "Không ảnh hưởng gì",
-      "Sâu rộng đến người dân Ấn Độ và nhiều quốc gia khác",
-      "Chỉ ảnh hưởng tại Ấn Độ",
-      "Chỉ ảnh hưởng giới thượng lưu"
+      "Hai tôn giáo hoàn toàn tách biệt, không liên quan nhau",
+      "Chỉ ảnh hưởng trong giới thượng lưu và hoàng gia",
+      "Sâu rộng đến đời sống tinh thần người dân Ấn Độ và nhiều quốc gia khác",
+      "Chủ yếu ảnh hưởng chính trị, ít ảnh hưởng đời sống hàng ngày"
     ],
-    correctIndex: 1,
-    explanation: "Phật giáo và Hin-đu giáo có ảnh hưởng sâu rộng đến đời sống tinh thần của người dân Ấn Độ và nhiều quốc gia khác."
+    correctIndex: 2,
+    explanation: "Phật giáo và Hin-đu giáo có ảnh hưởng sâu rộng đến đời sống tinh thần của người dân Ấn Độ và nhiều quốc gia khác. Hai tôn giáo có nguồn gốc chung và ảnh hưởng lẫn nhau."
   },
   {
     id: "b2",
     question: "Vì sao Phật giáo được truyền bá rộng rãi sang nhiều quốc gia châu Á?",
     options: [
-      "Do quân đội Ấn Độ chinh phục",
-      "Vì mang thông điệp hòa bình, từ bi, phù hợp nhiều dân tộc",
-      "Do vua chúa bắt buộc",
-      "Do thương mại"
+      "Do các hoàng đế Ấn Độ dùng quân đội bắt buộc người khác tuân theo",
+      "Ban đầu chỉ lan trong giới thương nhân, rồi mới phổ biến",
+      "Mang thông điệp hòa bình, từ bi, phù hợp nhiều dân tộc",
+      "Nhờ vị trí địa lý Ấn Độ ở trung tâm châu Á"
     ],
-    correctIndex: 1,
-    explanation: "Phật giáo mang thông điệp hòa bình, từ bi, phù hợp với nhiều dân tộc nên được truyền bá rộng rãi."
+    correctIndex: 2,
+    explanation: "Phật giáo mang thông điệp hòa bình, từ bi, phù hợp với nhiều dân tộc nên được truyền bá rộng rãi. Phật giáo lan rộng chủ yếu qua giao lưu văn hóa, không phải qua quân đội hay thương mại."
   },
   {
     id: "b3",
     question: "Toán học và kiến trúc Ấn Độ cổ đại có ảnh hưởng gì đến thế giới ngày nay?",
     options: [
-      "Không ảnh hưởng",
+      "Ảnh hưởng chỉ giới hạn ở Ấn Độ và các nước láng giềng trực tiếp",
+      "Chủ yếu ảnh hưởng đến nghệ thuật, không ảnh hưởng khoa học",
       "Ảnh hưởng đến khoa học, kiến trúc và tư duy nhân loại",
-      "Chỉ ảnh hưởng Ấn Độ",
-      "Chỉ ảnh hưởng toán học"
+      "Ảnh hưởng đã giảm dần sau thế kỉ 12"
     ],
-    correctIndex: 1,
-    explanation: "Toán học và kiến trúc Ấn Độ cổ đại có ảnh hưởng sâu rộng đến khoa học, kiến trúc và tư duy nhân loại."
+    correctIndex: 2,
+    explanation: "Toán học và kiến trúc Ấn Độ cổ đại có ảnh hưởng sâu rộng đến khoa học, kiến trúc và tư duy nhân loại. Hệ thống chữ số Ấn Độ được sử dụng toàn cầu đến ngày nay."
   },
   {
     id: "b4",
     question: "Thành tựu văn minh Ấn Độ có giá trị gì đối với nhân loại?",
     options: [
-      "Chỉ có trong quá khứ",
+      "Chủ yếu có ý nghĩa lịch sử, ít giá trị thực tế hôm nay",
+      "Giá trị chủ yếu với người Ấn Độ, các dân tộc khác không cần quan tâm",
       "Giá trị lâu dài, góp phần làm phong phú kho tàng văn hóa nhân loại",
-      "Không có giá trị",
-      "Chỉ có với người Ấn Độ"
+      "Giá trị đã bị thay thế hoàn toàn bởi thành tựu phương Tây"
     ],
-    correctIndex: 1,
-    explanation: "Thành tựu văn minh Ấn Độ có giá trị lâu dài, góp phần làm phong phú kho tàng văn hóa nhân loại."
+    correctIndex: 2,
+    explanation: "Thành tựu văn minh Ấn Độ có giá trị lâu dài, góp phần làm phong phú kho tàng văn hóa nhân loại. Nhiều thành tựu như số 0, chữ số thập phân, yoga, Phật giáo vẫn được sử dụng rộng rãi."
   }
 ];
 
