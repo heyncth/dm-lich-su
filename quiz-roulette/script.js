@@ -286,10 +286,12 @@ function updateTextRotation(container, wheelRotation) {
     const mid = parseFloat(text.dataset.mid);
     const x = text.getAttribute('x');
     const y = text.getAttribute('y');
-    // Absolute angle from top after wheel rotation
+    // Absolute angle from top after wheel rotation, normalized to [0, 360)
     const absAngle = ((mid + wheelRotation) % 360 + 360) % 360;
-    // Counter-rotate to keep upright, flip 180° if in bottom half
-    const textRot = (absAngle > 90 && absAngle < 270) ? -(absAngle) + 180 : -(absAngle);
+    // Normalize to [-180, 180)
+    const norm = absAngle > 180 ? absAngle - 360 : absAngle;
+    // Keep text upright: counter-rotate by norm, flip 180 if |norm| > 90
+    const textRot = Math.abs(norm) > 90 ? -norm + (norm > 0 ? 180 : -180) : -norm;
     text.setAttribute('transform', `rotate(${textRot} ${x} ${y})`);
   });
 }
