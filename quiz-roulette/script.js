@@ -255,21 +255,22 @@ function buildWheel(container, prizes) {
     paths += `<path d="M ${cx} ${cy} L ${x0} ${y0} A ${r} ${r} 0 ${largeArc} 1 ${x1} ${y1} Z"
               fill="url(#g${i})" stroke="#fff" stroke-width="2.5"/>`;
 
-    // Label at segment center - store angle for dynamic rotation
+    // Label OUTSIDE rotating group — position updated each frame via updateTextLabels
     const midDeg = i * segDeg + segDeg / 2;
     const [lx, ly] = toXY(midDeg, r * 0.6);
-    // No rotation at build time - will be updated during spin
-    labels += `<text x="${lx}" y="${ly}" data-mid="${midDeg}"
+    labels += `<text data-mid="${midDeg}" x="0" y="0"
               text-anchor="middle" dominant-baseline="middle"
               font-family="'Be Vietnam Pro',sans-serif" font-weight="900" font-size="17"
               fill="#fff" stroke="#404049" stroke-width="3" paint-order="stroke"
               style="filter: drop-shadow(0 1px 2px rgba(0,0,0,.5))"
+              transform="translate(${lx} ${ly})"
               >${p.short}</text>`;
   }
 
   container.innerHTML = `<svg viewBox="0 0 ${size} ${size}" xmlns="http://www.w3.org/2000/svg">
     <defs>${defs}</defs>
-    <g id="wheel-group">${paths}${labels}</g>
+    <g id="wheel-group">${paths}</g>
+    <g id="wheel-labels">${labels}</g>
     <circle cx="${cx}" cy="${cy}" r="${r}" fill="none" stroke="#404049" stroke-width="8" opacity=".9"/>
     <circle cx="${cx}" cy="${cy}" r="${r+4}" fill="none" stroke="rgba(255,255,255,.4)" stroke-width="2"/>
     ${Array.from({length:n},(_,i)=>{
@@ -279,20 +280,24 @@ function buildWheel(container, prizes) {
   </svg>`;
 }
 
-// Update text rotation to keep text upright based on wheel rotation
-function updateTextRotation(container, wheelRotation) {
-  const texts = container.querySelectorAll('text[data-mid]');
+// Recalculate label positions to follow wheel rotation, keeping text upright
+function updateTextLabels(container, wheelRotation) {
+  const size = 420;
+  const cx = size/2, cy = size/2, r = size/2 - 8;
+  const texts = container.querySelectorAll('#wheel-labels text[data-mid]');
   texts.forEach(text => {
     const mid = parseFloat(text.dataset.mid);
-    const x = text.getAttribute('x');
-    const y = text.getAttribute('y');
-    // Absolute angle from top after wheel rotation, normalized to [0, 360)
+    // Absolute angle of segment center after wheel rotation
     const absAngle = ((mid + wheelRotation) % 360 + 360) % 360;
-    // Normalize to [-180, 180)
+    // Position on circle at absAngle
+    const rad = absAngle * Math.PI / 180;
+    const lx = cx + Math.sin(rad) * r * 0.6;
+    const ly = cy - Math.cos(rad) * r * 0.6;
+    // Normalize to [-180, 180) for upright calculation
     const norm = absAngle > 180 ? absAngle - 360 : absAngle;
-    // Keep text upright: counter-rotate by norm, flip 180 if |norm| > 90
+    // Counter-rotate to stay upright; flip 180 if |norm| > 90
     const textRot = Math.abs(norm) > 90 ? -norm + (norm > 0 ? 180 : -180) : -norm;
-    text.setAttribute('transform', `rotate(${textRot} ${x} ${y})`);
+    text.setAttribute('transform', `translate(${lx.toFixed(2)} ${ly.toFixed(2)}) rotate(${textRot.toFixed(2)})`);
   });
 }
 
@@ -341,7 +346,7 @@ function animateWheel(container, targetRotation, duration, onTick, rotationKey) 
       if (rotationKey === 'prize') prizeWheelRotation = current;
       else qWheelRotation = current;
       group.setAttribute('transform', `rotate(${current} 210 210)`);
-      updateTextRotation(container, current);
+      updateTextLabels(container, current);
 
       if (t < 0.85) {
         const seg = Math.floor(current / SEG_ANGLE);
@@ -371,7 +376,7 @@ function wobbleWheel(group, baseAngle, container) {
       const offset = decay * wobbleAmp;
       const current = baseAngle + offset;
       group.setAttribute('transform', `rotate(${current} 210 210)`);
-      if (container) updateTextRotation(container, current);
+      if (container) updateTextLabels(container, current);
       if (t < 1) requestAnimationFrame(frame);
       else resolve();
     }
@@ -435,7 +440,7 @@ function buildQuestionWheel() {
   }));
   const container = document.getElementById('q-wheel-container');
   buildWheel(container, wheelPrizes);
-  updateTextRotation(container, 0);
+  updateTextLabels(container, 0);
 }
 
 function startQuestionWheel() {
@@ -626,7 +631,7 @@ function showOverlapMascot(btnEl, src, removeExisting) {
 function startPrizeWheel() {
   const container = document.getElementById('prize-wheel-container');
   buildWheel(container, PRIZES);
-  updateTextRotation(container, 0);
+  updateTextLabels(container, 0);
   prizeWheelRotation = 0;
   document.getElementById('prize-overlay').classList.remove('show');
   document.getElementById('btn-spin-prize').style.display = '';
