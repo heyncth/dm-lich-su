@@ -135,14 +135,13 @@ const BONUS_QUESTIONS = [
 /* ═══════════ PRIZES ═══════════ */
 
 const PRIZES = [
-  { id:"risk",      label:"THỬ THÁCH MAY MẮN", short:"THỬ",     prob:45, real:true,  color:"#AB47BC", grad:"#CE93D8" },
-  { id:"cash10",    label:"10k",               short:"10K",     prob:0,  real:false, color:"#FF6F00", grad:"#FFB300" },
-  { id:"candy",     label:"Kẹo",               short:"KẸO",     prob:10, real:true,  color:"#FF6B9D", grad:"#F48FB1" },
-  { id:"praise",    label:"1 tràng pháo tay",  short:"PHÁO",    prob:20, real:true,  color:"#4ECDC4", grad:"#80CBC4" },
-  { id:"cash20",    label:"20k",               short:"20K",     prob:0,  real:false, color:"#D84315", grad:"#FF7043" },
-  { id:"song",      label:"Chọn bài hát",      short:"BÀI HÁT", prob:15, real:true,  color:"#45B7D1", grad:"#4FC3F7" },
-  { id:"cash50",    label:"50k",               short:"50K",     prob:0,  real:false, color:"#F9A825", grad:"#FFD54F" },
-  { id:"extraSpin", label:"Quay thêm",          short:"THÊM",    prob:10, real:true,  color:"#FFA726", grad:"#FFB74D" },
+  { id:"risk",      label:"Câu đố may mắn",        short:"ĐỐ",       prob:45, real:true,  color:"#AB47BC", grad:"#CE93D8" },
+  { id:"cash10",    label:"10K",                    short:"10K",      prob:0,  real:false, color:"#FF6F00", grad:"#FFB300" },
+  { id:"candy",     label:"Kẹo",                    short:"KẸO",      prob:12, real:true,  color:"#FF6B9D", grad:"#F48FB1" },
+  { id:"praise",    label:"Một tràng pháo tay cho bạn", short:"VỖ TAY", prob:25, real:true,  color:"#4ECDC4", grad:"#80CBC4" },
+  { id:"cash20",    label:"20K",                    short:"20K",      prob:0,  real:false, color:"#D84315", grad:"#FF7043" },
+  { id:"cash50",    label:"50K",                    short:"50K",      prob:0,  real:false, color:"#F9A825", grad:"#FFD54F" },
+  { id:"extraSpin", label:"Quay thêm 1 lượt",       short:"QUAY NỮA", prob:18, real:true,  color:"#FFA726", grad:"#FFB74D" },
 ];
 
 const SEG_COUNT = PRIZES.length;
