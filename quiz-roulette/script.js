@@ -141,7 +141,7 @@ const PRIZES = [
   { id:"praise",    label:"Một tràng pháo tay cho bạn", short:"VỖ TAY", prob:25, real:true,  color:"#4ECDC4", grad:"#80CBC4" },
   { id:"cash20",    label:"20K",                    short:"20K",      prob:0,  real:false, color:"#D84315", grad:"#FF7043" },
   { id:"cash50",    label:"50K",                    short:"50K",      prob:0,  real:false, color:"#F9A825", grad:"#FFD54F" },
-  { id:"extraSpin", label:"Quay thêm 1 lượt",       short:"QUAY NỮA", prob:18, real:true,  color:"#FFA726", grad:"#FFB74D" },
+  { id:"extraSpin", label:"Quay lại",              short:"QUAY LẠI", prob:18, real:true,  color:"#FFA726", grad:"#FFB74D" },
 ];
 
 const SEG_COUNT = PRIZES.length;
